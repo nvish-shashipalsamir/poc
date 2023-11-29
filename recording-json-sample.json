@@ -1,431 +1,431 @@
 [
   {
-      "title": "Investing to Advance Our World Class Innovation",
-      "description": "Join Graham Sheldon, Chief Product Officer at UiPath, as he sets up the day with a more technical lens on key areas of the Business Automation Platform, and what's on the horizon in our upcoming 2023.10 release and beyond.  Hear about our strategy, key improvements and new capabilities across the platform -- and learn how we are enabling entirely new AI-powered experiences for all employees in your business.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "videoId": "876a5b3dad",
-      "videoAccountId": "877802949",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=877802949&id=876a5b3dad",
-      "speakers": [
-          {
-              "code": "2386",
-              "name": "Graham Sheldon",
-              "designation": "Chief Product Officer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1689912434062001Cwqz/attprofile/Graham%20Sheldon_1695714351975001tXTd.jpg",
-              "description": "Graham Sheldon is Chief Product Officer of UiPath, where he is responsible for defining the vision, roadmap and strategy of its business automation platform. He leads teams in the US, Romania, and India as they develop and design the next engines for enterprise automation. Graham's extensive background in product, engineering, and design enables him to assist clients in charting and achieving goals via automation and to do so with speed, flexibility, and scalability. Graham joined UiPath after over 20 years at Microsoft, where he most recently served as Corporate Vice President of Product for Microsoft Teams, the hub for teamwork in Microsoft 365 and the company’s fastest-growing business application. His team drove innovation for core collaboration across multiple form factors used by hundreds of millions of people at work, home, and school. During his tenure, Graham also managed engineering, product, and design for products across Microsoft, including Dynamics, Bing, Bing Ads, and MSN.",
-              "socials": []
-          },
-          {
-              "code": 2386,
-              "name": "Marco Casalaina",
-              "designation": "Vice President of Products, Azure AI",
-              "company": "Microsoft",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1695926982198001jU18/attprofile/Marco%20Casalaina_1696003703163001mCsp.jpg",
-              "description": "Marco Casalaina is VP Products of Azure AI at Microsoft, where he oversees a team building some of the world’s most innovative artificial intelligence. His purview includes Azure OpenAI, as well as Azure’s Vision, Speech, Decision, Language, and Responsible AI products. Prior to coming to Microsoft, Marco led the Einstein AI team at Salesforce. He holds a Bachelor’s Degree in Computer Science from Cornell University.",
-              "socials": []
-          }
-      ]
+    "title": "Investing to Advance Our World Class Innovation",
+    "description": "Join Graham Sheldon, Chief Product Officer at UiPath, as he sets up the day with a more technical lens on key areas of the Business Automation Platform, and what's on the horizon in our upcoming 2023.10 release and beyond.  Hear about our strategy, key improvements and new capabilities across the platform -- and learn how we are enabling entirely new AI-powered experiences for all employees in your business.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "videoId": "876a5b3dad",
+    "videoAccountId": "877802949",
+    "image": "https://images.ctfassets.net/5965pury2lcm/3KK47EjNH0YRQkMIcUij3Q/015b2d3cc761da422cd95a15e0255ea7/Investing_to_Advance_Our_World_Class_Innovation.jpg",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=877802949&id=876a5b3dad",
+    "speakers": [
+      {
+        "code": "2386",
+        "name": "Graham Sheldon",
+        "designation": "Chief Product Officer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1689912434062001Cwqz/attprofile/Graham%20Sheldon_1695714351975001tXTd.jpg",
+        "description": "Graham Sheldon is Chief Product Officer of UiPath, where he is responsible for defining the vision, roadmap and strategy of its business automation platform. He leads teams in the US, Romania, and India as they develop and design the next engines for enterprise automation. Graham's extensive background in product, engineering, and design enables him to assist clients in charting and achieving goals via automation and to do so with speed, flexibility, and scalability. Graham joined UiPath after over 20 years at Microsoft, where he most recently served as Corporate Vice President of Product for Microsoft Teams, the hub for teamwork in Microsoft 365 and the company’s fastest-growing business application. His team drove innovation for core collaboration across multiple form factors used by hundreds of millions of people at work, home, and school. During his tenure, Graham also managed engineering, product, and design for products across Microsoft, including Dynamics, Bing, Bing Ads, and MSN.",
+        "socials": []
+      },
+      {
+        "code": 2386,
+        "name": "Marco Casalaina",
+        "designation": "Vice President of Products, Azure AI",
+        "company": "Microsoft",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1695926982198001jU18/attprofile/Marco%20Casalaina_1696003703163001mCsp.jpg",
+        "description": "Marco Casalaina is VP Products of Azure AI at Microsoft, where he oversees a team building some of the world’s most innovative artificial intelligence. His purview includes Azure OpenAI, as well as Azure’s Vision, Speech, Decision, Language, and Responsible AI products. Prior to coming to Microsoft, Marco led the Einstein AI team at Salesforce. He holds a Bachelor’s Degree in Computer Science from Cornell University.",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Supercharge Low-Code Apps with Generative AI",
-      "description": "Harness the untapped potential of Generative AI within low-code app development. Gain invaluable knowledge, best practices, and actionable strategies to accelerate your digital transformation journey and empower your organization with future-ready applications.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116840&id=bb4f361d7f",
-      "videoId": "bb4f361d7f",
-      "videoAccountId": "875116840",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
-      "speakers": [
-          {
-              "code": 2303,
-              "name": "Masaki Kumamoto",
-              "designation": "Senior Sales Engineer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1687805235349001zRDv/attprofile/Masaki%20Kumamoto_1691579028653001AZAs.jpg",
-              "description": "Masaki Kumamoto a Senior Sales Engineer at UiPath, has experience working with customers around the world with a passion for problem-solving last 5 years.\n\nMasaki advises clients on bespoke UiPath solutions, tackling unique business challenges. His expertise shines through the development of impactful PoCs, empowering customers with RPA, Document Understanding, Action Center, and Apps.",
-              "socials": []
-          },
-          {
-              "code": 2303,
-              "name": "Peter Reischer",
-              "designation": "Sales Engineer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1693920012858001q3Hy/attprofile/Peter%20Reischer_1694512117547001klaF.jpg",
-              "description": "Peter Reischer is a Solution Engineer for UiPath, working with the nation’s largest healthcare providers and payers to transform business processes with automation. Prior to UiPath, Peter worked for Epic in the implementation of clinical applications, with a specialization in the lab information system (Beaker). Peter started his career in medicine as a medical scribe and clinical manager in varied outpatient and inpatient settings for health systems such as Brigham and Women’s, Mass General, and Beth Israel Deaconess.",
-              "socials": []
-          }
-      ]
+    "title": "Supercharge Low-Code Apps with Generative AI",
+    "description": "Harness the untapped potential of Generative AI within low-code app development. Gain invaluable knowledge, best practices, and actionable strategies to accelerate your digital transformation journey and empower your organization with future-ready applications.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116840&id=bb4f361d7f",
+    "videoId": "bb4f361d7f",
+    "videoAccountId": "875116840",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6kety1Flsoq7inGaDHrTaD/895a748844af95f1386a35ed01cb6dd6/Supercharge_Low-Code_Apps_with_Generative_AI.jpg",
+    "speakers": [
+      {
+        "code": 2303,
+        "name": "Masaki Kumamoto",
+        "designation": "Senior Sales Engineer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1687805235349001zRDv/attprofile/Masaki%20Kumamoto_1691579028653001AZAs.jpg",
+        "description": "Masaki Kumamoto a Senior Sales Engineer at UiPath, has experience working with customers around the world with a passion for problem-solving last 5 years.\n\nMasaki advises clients on bespoke UiPath solutions, tackling unique business challenges. His expertise shines through the development of impactful PoCs, empowering customers with RPA, Document Understanding, Action Center, and Apps.",
+        "socials": []
+      },
+      {
+        "code": 2303,
+        "name": "Peter Reischer",
+        "designation": "Sales Engineer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1693920012858001q3Hy/attprofile/Peter%20Reischer_1694512117547001klaF.jpg",
+        "description": "Peter Reischer is a Solution Engineer for UiPath, working with the nation’s largest healthcare providers and payers to transform business processes with automation. Prior to UiPath, Peter worked for Epic in the implementation of clinical applications, with a specialization in the lab information system (Beaker). Peter started his career in medicine as a medical scribe and clinical manager in varied outpatient and inpatient settings for health systems such as Brigham and Women’s, Mass General, and Beth Israel Deaconess.",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Turbocharge Your SAP Automation Journey With UiPath Solution Accelerators",
-      "description": "In this session, we will demonstrate how UiPath SAP Solution Accelerators can expedite automation deployment within SAP environments, yielding significant improvements in efficiency, accuracy, and overall business outcomes. Session participants will gain valuable insights into harnessing the power of UiPath SAP Solution Accelerators to expedite their SAP automation initiatives and achieve optimal results. Session attendees will also explore case studies on how organizations have realized impressive ROI after implementing UiPath SAP Solution Accelerators. Join us to learn how UiPath SAP Solution Accelerators can fuel your SAP automation journey and uncover the strategies to drive tangible ROI within your organization.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875117487&id=f00f37ca5f",
-      "videoId": "f00f37ca5f",
-      "videoAccountId": "875117487",
-      "image": "https://images.ctfassets.net/5965pury2lcm/3vwYWChm1mtjf60GAORHyk/87bf6faec03054517834b10488e60201/Turbocharge_Your_SAP_Automation_Journey_With_UiPath_Solution_Accelerators_.jpg",
-      "speakers": [
-          {
-              "code": 2307,
-              "name": "Ibrahim Appiah",
-              "designation": "Sales Engineer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1685721085898001U0pu/attprofile/Ibrahim%20Appiah_1691575400531001AKrN.jpg",
-              "description": "Ibrahim Appiah, a Sales Engineer at UiPath, is dedicated to solving complex issues one bot at a time. He brings a strong technological background to his role, complemented by previous experience as a developer and Solution Engineer at SAP, and deep proficiency with SAP, SAP HANA, and SAAS Solutions.\n\nPassion for innovation, AI, modern technology, and design fuels his work, allowing him to thrive in the dynamic digital sphere and deliver state-of-the-art, cloud-based solutions. His endeavors center around engaging with clients to resolve unique business challenges, ushering them into the digital age.\n\nAn effective multi-lingual communicator fluent in English, French, Portuguese, and Twi, Ibrahim's reach spans across varied geographies and cultures. Outside of work, he embodies the spirit of exploration, guided by the belief that \"the world is too big to stay in one place\". Whether exploring new landscapes or technology solutions, Ibrahim's passion for discovery remains constant.",
-              "socials": []
-          },
-          {
-              "code": 2307,
-              "name": "Breuer Bass",
-              "designation": "Senior Solution Engineer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467445546001qoRD/attprofile/Breuer%20Bass_1691575660517001AjHq.jpg",
-              "description": "Breuer has deep experience in delivering SAP planning and consolidations solutions for Fortune 100 customers. He is passionate about data and analytics that drive meaningful change. And is a full believer in accelerating human achievement using automation and AI. A Dallas,Texas native, Breuer enjoys playing golf, being with family and friends, and the occasional blog post. Check out his personal blog about the future of AI at astra.substack.com. ",
-              "socials": []
-          },
-          {
-              "code": 2307,
-              "name": "Steve Filus",
-              "designation": "Senior Sales Engineer",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467475740001aJ6Q/attprofile/Steve%20Filus_1691576772114001ASUK.jpg",
-              "description": "I am a proud husband and father of two beautiful children with a passion for automation and helping the world be a better place one robot at a time. I specialize in identifying innovative solutions that drive efficiency, productivity, and growth for clients across various sectors. My expertise in all things automation enables me to develop and deliver tailor-made solutions for diverse business needs. I have held a variety of technical and strategic consulting roles at a number of market leading Enterprise software vendors gaining extensive experience over the years, working with many of the World’s leading corporations.",
-              "socials": []
-          }
-      ]
+    "title": "Turbocharge Your SAP Automation Journey With UiPath Solution Accelerators",
+    "description": "In this session, we will demonstrate how UiPath SAP Solution Accelerators can expedite automation deployment within SAP environments, yielding significant improvements in efficiency, accuracy, and overall business outcomes. Session participants will gain valuable insights into harnessing the power of UiPath SAP Solution Accelerators to expedite their SAP automation initiatives and achieve optimal results. Session attendees will also explore case studies on how organizations have realized impressive ROI after implementing UiPath SAP Solution Accelerators. Join us to learn how UiPath SAP Solution Accelerators can fuel your SAP automation journey and uncover the strategies to drive tangible ROI within your organization.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875117487&id=f00f37ca5f",
+    "videoId": "f00f37ca5f",
+    "videoAccountId": "875117487",
+    "image": "https://images.ctfassets.net/5965pury2lcm/3vwYWChm1mtjf60GAORHyk/87bf6faec03054517834b10488e60201/Turbocharge_Your_SAP_Automation_Journey_With_UiPath_Solution_Accelerators_.jpg",
+    "speakers": [
+      {
+        "code": 2307,
+        "name": "Ibrahim Appiah",
+        "designation": "Sales Engineer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1685721085898001U0pu/attprofile/Ibrahim%20Appiah_1691575400531001AKrN.jpg",
+        "description": "Ibrahim Appiah, a Sales Engineer at UiPath, is dedicated to solving complex issues one bot at a time. He brings a strong technological background to his role, complemented by previous experience as a developer and Solution Engineer at SAP, and deep proficiency with SAP, SAP HANA, and SAAS Solutions.\n\nPassion for innovation, AI, modern technology, and design fuels his work, allowing him to thrive in the dynamic digital sphere and deliver state-of-the-art, cloud-based solutions. His endeavors center around engaging with clients to resolve unique business challenges, ushering them into the digital age.\n\nAn effective multi-lingual communicator fluent in English, French, Portuguese, and Twi, Ibrahim's reach spans across varied geographies and cultures. Outside of work, he embodies the spirit of exploration, guided by the belief that \"the world is too big to stay in one place\". Whether exploring new landscapes or technology solutions, Ibrahim's passion for discovery remains constant.",
+        "socials": []
+      },
+      {
+        "code": 2307,
+        "name": "Breuer Bass",
+        "designation": "Senior Solution Engineer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467445546001qoRD/attprofile/Breuer%20Bass_1691575660517001AjHq.jpg",
+        "description": "Breuer has deep experience in delivering SAP planning and consolidations solutions for Fortune 100 customers. He is passionate about data and analytics that drive meaningful change. And is a full believer in accelerating human achievement using automation and AI. A Dallas,Texas native, Breuer enjoys playing golf, being with family and friends, and the occasional blog post. Check out his personal blog about the future of AI at astra.substack.com. ",
+        "socials": []
+      },
+      {
+        "code": 2307,
+        "name": "Steve Filus",
+        "designation": "Senior Sales Engineer",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467475740001aJ6Q/attprofile/Steve%20Filus_1691576772114001ASUK.jpg",
+        "description": "I am a proud husband and father of two beautiful children with a passion for automation and helping the world be a better place one robot at a time. I specialize in identifying innovative solutions that drive efficiency, productivity, and growth for clients across various sectors. My expertise in all things automation enables me to develop and deliver tailor-made solutions for diverse business needs. I have held a variety of technical and strategic consulting roles at a number of market leading Enterprise software vendors gaining extensive experience over the years, working with many of the World’s leading corporations.",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Unlock AI-Driven Automation for ITSM",
-      "description": "The intersection of AI/ML and automation enables robots to analyze, understand, and take action on communications including emails, tickets, and notes. The ability to build multi-model automations with the UiPath Platform empowers teams to tackle complex scenarios without some of the complexities of development. This session is designed to showcase how you can leverage UiPath Communications Mining and Generative AI to tackle low-hanging fruit in IT service management (ITSM).",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875099410&id=7ff7fec504",
-      "videoId": "7ff7fec504",
-      "videoAccountId": "875099410",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6Nr1sjhnbnGCnJ9l0RH1AY/780faeceff65d4f808e5dc28662c715e/Unlock_AI-Driven_Automation_for_ITSM.jpg",
-      "speakers": [
-          {
-              "code": 2309,
-              "name": "Dhruv Patel",
-              "designation": "Senior Solution Architect, Incubation",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1685453571631001hGPZ/attprofile/Dhruv%20Patel_1691579770570001AqUU.jpg",
-              "description": "",
-              "socials": []
-          }
-      ]
+    "title": "Unlock AI-Driven Automation for ITSM",
+    "description": "The intersection of AI/ML and automation enables robots to analyze, understand, and take action on communications including emails, tickets, and notes. The ability to build multi-model automations with the UiPath Platform empowers teams to tackle complex scenarios without some of the complexities of development. This session is designed to showcase how you can leverage UiPath Communications Mining and Generative AI to tackle low-hanging fruit in IT service management (ITSM).",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875099410&id=7ff7fec504",
+    "videoId": "7ff7fec504",
+    "videoAccountId": "875099410",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6Nr1sjhnbnGCnJ9l0RH1AY/780faeceff65d4f808e5dc28662c715e/Unlock_AI-Driven_Automation_for_ITSM.jpg",
+    "speakers": [
+      {
+        "code": 2309,
+        "name": "Dhruv Patel",
+        "designation": "Senior Solution Architect, Incubation",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1685453571631001hGPZ/attprofile/Dhruv%20Patel_1691579770570001AqUU.jpg",
+        "description": "",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Mine, Monitor, and Automate with UiPath Communications Mining",
-      "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nLearn how the most common requests, messages, and queries can be automated end to end. During this hands-on session, the UiPath Communications Mining team will guide attendees through the entire process from model training to automation. Learn how to train your own Communications Mining model, generate in-platform insights, and set up KPI monitoring, as well as how to create an automation leveraging Communications Mining data. Combine AI and automation so you can understand and action every message at speed and scale.",
-      "category": "TechEd Day",
-      "videoType": "N/A",
-      "video url": "",
-      "videoId": "",
-      "videoAccountId": "",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
-      "speakers": [
-          {
-              "code": 2330,
-              "name": "Joe Prosser",
-              "designation": "Senior Solution Architect",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690385424278001Ijri/attprofile/Joe%20Prosser_1694178459797001HYtI.jpg",
-              "description": "Joe is a Solution Architect working on UiPath Communications Mining. Joe helps people understand the platform from a technical perspective.",
-              "socials": []
-          },
-          {
-              "code": 2330,
-              "name": "Will Smith",
-              "designation": "Director, Product Management",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1689787811036001iOYR/attprofile/Willem%20Smith_1691586355206001lqrE.jpg",
-              "description": "Willem is a Director in A.I. Product Management working on UiPath Communications Mining, for which he also leads enablement for customers, partners and UiPath teams. He joined UiPath in August 2022 when UiPath acquired Re:infer, where he previously held a number of roles across Product and leading the Customer Success team. Prior to Re:infer, Willem worked in technology transformation consulting at EY, working with major financial services clients on large-scale technology transformation programmes.",
-              "socials": []
-          }
-      ]
+    "title": "Mine, Monitor, and Automate with UiPath Communications Mining",
+    "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nLearn how the most common requests, messages, and queries can be automated end to end. During this hands-on session, the UiPath Communications Mining team will guide attendees through the entire process from model training to automation. Learn how to train your own Communications Mining model, generate in-platform insights, and set up KPI monitoring, as well as how to create an automation leveraging Communications Mining data. Combine AI and automation so you can understand and action every message at speed and scale.",
+    "category": "TechEd Day",
+    "videoType": "N/A",
+    "video url": "",
+    "videoId": "",
+    "videoAccountId": "",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
+    "speakers": [
+      {
+        "code": 2330,
+        "name": "Joe Prosser",
+        "designation": "Senior Solution Architect",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690385424278001Ijri/attprofile/Joe%20Prosser_1694178459797001HYtI.jpg",
+        "description": "Joe is a Solution Architect working on UiPath Communications Mining. Joe helps people understand the platform from a technical perspective.",
+        "socials": []
+      },
+      {
+        "code": 2330,
+        "name": "Will Smith",
+        "designation": "Director, Product Management",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1689787811036001iOYR/attprofile/Willem%20Smith_1691586355206001lqrE.jpg",
+        "description": "Willem is a Director in A.I. Product Management working on UiPath Communications Mining, for which he also leads enablement for customers, partners and UiPath teams. He joined UiPath in August 2022 when UiPath acquired Re:infer, where he previously held a number of roles across Product and leading the Customer Success team. Prior to Re:infer, Willem worked in technology transformation consulting at EY, working with major financial services clients on large-scale technology transformation programmes.",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Effortless AI for Document Processing",
-      "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nAI made super easy with the latest UiPath Document Understanding capabilities. Join this workshop to build your own AI-powered automation in UiPath Studio Web, leveraging both Generative AI and Specialized AI to classify documents and extract the relevant data",
-      "category": "TechEd Day",
-      "videoType": "N/A",
-      "videoId": "",
-      "videoAccountId": "",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
-      "speakers": [
-          {
-              "code": 2331,
-              "name": "Daniel Lerner",
-              "designation": "AI/ML Sales Solution Architect",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467560028001CbCV/attprofile/Daniel-Lerner_1692743197883001RwQw.jpg",
-              "description": "AI/ML Solutions Architect with a focus on Document Understanding",
-              "socials": []
-          },
-          {
-              "code": 2331,
-              "name": "Monica Luca",
-              "designation": "Senior Product Manager",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690386460706001OilV/attprofile/Monica-Luca_1692910377541001JFo3.jpg",
-              "description": "Based in Cluj-Napoca, Romania, starting as a Software Engineer turned into Product Manager, I now am part of the Document Understanding team, focusing on the consumption & monitoring part of Document Understanding models. In my free time, I enjoy various activities like sports, tailoring, travelling, reading and exploring new coffee shops! \n\nFind me around the AI Products Booth, looking forward to hearing from you! :) ",
-              "socials": []
-          },
-          {
-              "code": 2331,
-              "name": "Sophia Sembai",
-              "designation": "Senior Product Marketing Manager",
-              "company": "UiPath",
-              "image": "https://static.rainfocus.com/uipath/forwardvi/att/1686838581857001rkuL/attprofile/Sophia%20Sembai_1695642456114001wOVp.png",
-              "description": "",
-              "socials": []
-          }
-      ]
+    "title": "Effortless AI for Document Processing",
+    "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nAI made super easy with the latest UiPath Document Understanding capabilities. Join this workshop to build your own AI-powered automation in UiPath Studio Web, leveraging both Generative AI and Specialized AI to classify documents and extract the relevant data",
+    "category": "TechEd Day",
+    "videoType": "N/A",
+    "videoId": "",
+    "videoAccountId": "",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
+    "speakers": [
+      {
+        "code": 2331,
+        "name": "Daniel Lerner",
+        "designation": "AI/ML Sales Solution Architect",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690467560028001CbCV/attprofile/Daniel-Lerner_1692743197883001RwQw.jpg",
+        "description": "AI/ML Solutions Architect with a focus on Document Understanding",
+        "socials": []
+      },
+      {
+        "code": 2331,
+        "name": "Monica Luca",
+        "designation": "Senior Product Manager",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1690386460706001OilV/attprofile/Monica-Luca_1692910377541001JFo3.jpg",
+        "description": "Based in Cluj-Napoca, Romania, starting as a Software Engineer turned into Product Manager, I now am part of the Document Understanding team, focusing on the consumption & monitoring part of Document Understanding models. In my free time, I enjoy various activities like sports, tailoring, travelling, reading and exploring new coffee shops! \n\nFind me around the AI Products Booth, looking forward to hearing from you! :) ",
+        "socials": []
+      },
+      {
+        "code": 2331,
+        "name": "Sophia Sembai",
+        "designation": "Senior Product Marketing Manager",
+        "company": "UiPath",
+        "image": "https://static.rainfocus.com/uipath/forwardvi/att/1686838581857001rkuL/attprofile/Sophia%20Sembai_1695642456114001wOVp.png",
+        "description": "",
+        "socials": []
+      }
+    ]
   },
   {
-      "title": "Ask the Experts about AI for Document Processing",
-      "description": "Join AI and automation experts as they answer your questions on intelligent document processing (IDP) and AI-powered automation. Learn how to process communications and documents from emails, tax forms, legal contracts, and more with the latest Specialized AI and Generative AI capabilities from UiPath.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875098827&id=3dd0960bc9",
-      "videoId": "3dd0960bc9",
-      "videoAccountId": "875098827",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2QglIscvuVFCQ0RhFgP4X9/65ab2c975ddb3a81f06e498976a984e7/Ask_the_Experts_about_AI_for_Document_Processing.jpg",
-      "speakers": []
+    "title": "Ask the Experts about AI for Document Processing",
+    "description": "Join AI and automation experts as they answer your questions on intelligent document processing (IDP) and AI-powered automation. Learn how to process communications and documents from emails, tax forms, legal contracts, and more with the latest Specialized AI and Generative AI capabilities from UiPath.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875098827&id=3dd0960bc9",
+    "videoId": "3dd0960bc9",
+    "videoAccountId": "875098827",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2QglIscvuVFCQ0RhFgP4X9/65ab2c975ddb3a81f06e498976a984e7/Ask_the_Experts_about_AI_for_Document_Processing.jpg",
+    "speakers": []
   },
   {
-      "title": "UiPath Process Mining Data Preparation and Dashboard Customization",
-      "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nJoin this workshop to discover how to prepare data for UiPath Process Mining analysis, ensuring accurate insights and meaningful results. Learn valuable techniques for customizing Process Mining dashboards to effectively visualize and present your findings, and empower you to make data-driven decisions.",
-      "category": "TechEd Day",
-      "videoType": "N/A",
-      "videoId": "",
-      "videoAccountId": "",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
-      "speakers": []
+    "title": "UiPath Process Mining Data Preparation and Dashboard Customization",
+    "description": "This is a hands-on workshop. Please bring your laptop to the session in order to participate. Attendance is limited due to the hands-on nature.\n\nJoin this workshop to discover how to prepare data for UiPath Process Mining analysis, ensuring accurate insights and meaningful results. Learn valuable techniques for customizing Process Mining dashboards to effectively visualize and present your findings, and empower you to make data-driven decisions.",
+    "category": "TechEd Day",
+    "videoType": "N/A",
+    "videoId": "",
+    "videoAccountId": "",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6DHMNEgVMXzaADRPaHQVYq/d98e2760c07ffccbf20278688b832fcd/Communications_mining_thumbnail_3.jpg",
+    "speakers": []
   },
   {
-      "title": "Document Understanding Dashboards: From automation to visualization in UiPath Insights",
-      "description": "Learn how to create, design, and implement a Document Understanding-based Insights dashboard from the automation stage all the way to the visualization stage.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875178493&id=58eaa6b38f",
-      "videoId": "58eaa6b38f",
-      "videoAccountId": "875178493",
-      "image": "https://images.ctfassets.net/5965pury2lcm/57siVEkANipZccvZWfcBt9/afc7dffc0c0e5f20422f1f3481465bfb/Document_Understanding_Dashboards__From_automation_to_visualization_in_UiPath_Insights_.jpg",
-      "speakers": []
+    "title": "Document Understanding Dashboards: From automation to visualization in UiPath Insights",
+    "description": "Learn how to create, design, and implement a Document Understanding-based Insights dashboard from the automation stage all the way to the visualization stage.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875178493&id=58eaa6b38f",
+    "videoId": "58eaa6b38f",
+    "videoAccountId": "875178493",
+    "image": "https://images.ctfassets.net/5965pury2lcm/57siVEkANipZccvZWfcBt9/afc7dffc0c0e5f20422f1f3481465bfb/Document_Understanding_Dashboards__From_automation_to_visualization_in_UiPath_Insights_.jpg",
+    "speakers": []
   },
   {
-      "title": "The Data Gold Rush: Mining your data for automation potential",
-      "description": "Join this session to learn how AI and Continuous Discovery can uncover highly impactful automation opportunities. Whether you're leveraging system data, desktop data, or unstructured communications data, we'll dive into how you can identify the highest ROI areas of your business to start automating and improving.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875158446&id=1455e0b5b5",
-      "videoId": "1455e0b5b5",
-      "videoAccountId": "875158446",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6ZDPo2sxNswVghcxtBr4lM/48640b2e73104e14a3eb7cab1b07a5af/The_Data_Gold_Rush__Mining_your_data_for_automation_potential.jpg",
-      "speakers": []
+    "title": "The Data Gold Rush: Mining your data for automation potential",
+    "description": "Join this session to learn how AI and Continuous Discovery can uncover highly impactful automation opportunities. Whether you're leveraging system data, desktop data, or unstructured communications data, we'll dive into how you can identify the highest ROI areas of your business to start automating and improving.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875158446&id=1455e0b5b5",
+    "videoId": "1455e0b5b5",
+    "videoAccountId": "875158446",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6ZDPo2sxNswVghcxtBr4lM/48640b2e73104e14a3eb7cab1b07a5af/The_Data_Gold_Rush__Mining_your_data_for_automation_potential.jpg",
+    "speakers": []
   },
   {
-      "title": "Exploring UiPath Task Mining Enhancements: How to utilize workforce intelligence",
-      "description": "In this session, we'll dive into the latest enhancements in Task Mining, with a special focus on workforce intelligence. You'll learn about our approach to data collection and analysis. You'll also learn how to effectively use workforce intelligence data, seamlessly integrating it into Task Mining or automation initiatives.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875178838&id=9a746cc229",
-      "videoId": "9a746cc229",
-      "videoAccountId": "875178838",
-      "image": "https://images.ctfassets.net/5965pury2lcm/33p5JcRJ0MYeampc27ZSLI/75dbcdae05ce52ccc48d6fbd5efea2f9/Exploring_UiPath_Task_Mining_Enhancements__How_to_utilize_workforce_intelligence.jpg",
-      "speakers": []
+    "title": "Exploring UiPath Task Mining Enhancements: How to utilize workforce intelligence",
+    "description": "In this session, we'll dive into the latest enhancements in Task Mining, with a special focus on workforce intelligence. You'll learn about our approach to data collection and analysis. You'll also learn how to effectively use workforce intelligence data, seamlessly integrating it into Task Mining or automation initiatives.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875178838&id=9a746cc229",
+    "videoId": "9a746cc229",
+    "videoAccountId": "875178838",
+    "image": "https://images.ctfassets.net/5965pury2lcm/33p5JcRJ0MYeampc27ZSLI/75dbcdae05ce52ccc48d6fbd5efea2f9/Exploring_UiPath_Task_Mining_Enhancements__How_to_utilize_workforce_intelligence.jpg",
+    "speakers": []
   },
   {
-      "title": "Boosting Process Improvement with UiPath Process Mining and Automation",
-      "description": "Combining automation and process improvement initiatives means better outcomes for everyone. Join this session to discover how UiPath Process Mining can optimize processes and simultaneously find opportunities for automation.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875177464&id=bb2fdbb98d",
-      "videoId": "bb2fdbb98d",
-      "videoAccountId": "875177464",
-      "image": "https://images.ctfassets.net/5965pury2lcm/3iDNIlRLodFoAbdtm4VIEZ/cf9417a0352ffc6e28b01ba38f088f84/Boosting_Process_Improvement_with_UiPath_Process_Mining_and_Automation.jpg",
-      "speakers": []
+    "title": "Boosting Process Improvement with UiPath Process Mining and Automation",
+    "description": "Combining automation and process improvement initiatives means better outcomes for everyone. Join this session to discover how UiPath Process Mining can optimize processes and simultaneously find opportunities for automation.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875177464&id=bb2fdbb98d",
+    "videoId": "bb2fdbb98d",
+    "videoAccountId": "875177464",
+    "image": "https://images.ctfassets.net/5965pury2lcm/3iDNIlRLodFoAbdtm4VIEZ/cf9417a0352ffc6e28b01ba38f088f84/Boosting_Process_Improvement_with_UiPath_Process_Mining_and_Automation.jpg",
+    "speakers": []
   },
   {
-      "title": "Specialized AI for UiPath Task Mining and Process Mining",
-      "description": "In this session, we'll dive into Specialized AI and how it's being used across the UiPath Business Automation Platform to understand processes, discover new insights, and speed up process improvement.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875183716&id=b50d11c1aa",
-      "videoId": "b50d11c1aa",
-      "videoAccountId": "875183716",
-      "image": "https://images.ctfassets.net/5965pury2lcm/1JzlWWVRqqFaBMvxw06rJD/14a335ec54ec81aa0221c7dd7b7b9762/Specialized_AI_for_UiPath_Task_Mining_and_Process_Mining_copy.jpg",
-      "speakers": []
+    "title": "Specialized AI for UiPath Task Mining and Process Mining",
+    "description": "In this session, we'll dive into Specialized AI and how it's being used across the UiPath Business Automation Platform to understand processes, discover new insights, and speed up process improvement.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875183716&id=b50d11c1aa",
+    "videoId": "b50d11c1aa",
+    "videoAccountId": "875183716",
+    "image": "https://images.ctfassets.net/5965pury2lcm/1JzlWWVRqqFaBMvxw06rJD/14a335ec54ec81aa0221c7dd7b7b9762/Specialized_AI_for_UiPath_Task_Mining_and_Process_Mining_copy.jpg",
+    "speakers": []
   },
   {
-      "title": "Streamlining Enterprise Financial Processes: Process Mining Best Practices",
-      "description": "In this session, Ashling Partners, Komatsu, and NRG will share best practices for using UiPath Process Mining to improve their enterprise financial processes to achieve better procurement and finance outcomes.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875153830&id=a4a5935862",
-      "videoId": "a4a5935862",
-      "videoAccountId": "875153830",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2WuU2mVjEJH1PNdmddPnH/9bf0885ea0e7c5ad7670f0c94e0869f0/Streamlining_Enterprise_Financial_Processes__Process_Mining_Best_Practices.jpg",
-      "speakers": []
+    "title": "Streamlining Enterprise Financial Processes: Process Mining Best Practices",
+    "description": "In this session, Ashling Partners, Komatsu, and NRG will share best practices for using UiPath Process Mining to improve their enterprise financial processes to achieve better procurement and finance outcomes.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875153830&id=a4a5935862",
+    "videoId": "a4a5935862",
+    "videoAccountId": "875153830",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2WuU2mVjEJH1PNdmddPnH/9bf0885ea0e7c5ad7670f0c94e0869f0/Streamlining_Enterprise_Financial_Processes__Process_Mining_Best_Practices.jpg",
+    "speakers": []
   },
   {
-      "title": "Accelerating Your Time to Automation: Best practices from Impower.ai and Leaf Home",
-      "description": "Assisted Task Mining provides immense value in business transformation initiatives. Impower.ai and UiPath customer Leaf Home will share best practices they used with Assisted Task Mining to efficiently map over 500 processes, saving a significant amount of time and resources. Make sure to join this session to find out how you can benefit from Assisted Task Mining.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875154414&id=38bc701de1",
-      "videoId": "38bc701de1",
-      "videoAccountId": "875154414",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6G9UDEJxDDI8JIc7O5yC6O/4652a22e0d7ca057e62ae11531d4be8c/Accelerating_Your_Time_to_Automation__Best_practices_from_Impower.ai_and_Leaf_Home.jpg",
-      "speakers": []
+    "title": "Accelerating Your Time to Automation: Best practices from Impower.ai and Leaf Home",
+    "description": "Assisted Task Mining provides immense value in business transformation initiatives. Impower.ai and UiPath customer Leaf Home will share best practices they used with Assisted Task Mining to efficiently map over 500 processes, saving a significant amount of time and resources. Make sure to join this session to find out how you can benefit from Assisted Task Mining.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875154414&id=38bc701de1",
+    "videoId": "38bc701de1",
+    "videoAccountId": "875154414",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6G9UDEJxDDI8JIc7O5yC6O/4652a22e0d7ca057e62ae11531d4be8c/Accelerating_Your_Time_to_Automation__Best_practices_from_Impower.ai_and_Leaf_Home.jpg",
+    "speakers": []
   },
   {
-      "title": "Combining Insights and Automation Hub for Effective Reporting",
-      "description": "Learn how to utilize the full power of our Insights analytics to analyze your automation program data, track meaningful metrics, and share reports with stakeholders.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875283120&id=63ce63228e",
-      "videoId": "63ce63228e",
-      "videoAccountId": "875283120",
-      "image": "https://images.ctfassets.net/5965pury2lcm/RPCGZX2F2jgTUrAKfqbla/737299b9cde23a833cf6f7bdbea2f43f/Combining_Insights_and_Automation_Hub_for_Effective_Reporting_.jpg",
-      "speakers": []
+    "title": "Combining Insights and Automation Hub for Effective Reporting",
+    "description": "Learn how to utilize the full power of our Insights analytics to analyze your automation program data, track meaningful metrics, and share reports with stakeholders.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875283120&id=63ce63228e",
+    "videoId": "63ce63228e",
+    "videoAccountId": "875283120",
+    "image": "https://images.ctfassets.net/5965pury2lcm/RPCGZX2F2jgTUrAKfqbla/737299b9cde23a833cf6f7bdbea2f43f/Combining_Insights_and_Automation_Hub_for_Effective_Reporting_.jpg",
+    "speakers": []
   },
   {
-      "title": "From Feedback to Features: Maximize your impact as a UiPath Insider",
-      "description": "Discover the vital role you play in shaping the future of automation through early testing and feedback. Get pro tips to become an early adopter superstar, learn how fellow customers have impacted product development in their favor by testing their unique scenarios early, and be the first to get exclusive access to upcoming private previews of cutting-edge Generative AI capabilities. Join us and drive the future of automation as a UiPath Insider.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=877795675&id=82abf89e59",
-      "videoId": "82abf89e59",
-      "videoAccountId": "877795675",
-      "image": "https://images.ctfassets.net/5965pury2lcm/1Lpu7AS3yVVujtgf8Ek8ad/d03e544f196964a592834e650bf63811/From_Feedback_to_Features_-_Maximize_your_impact_as_a_UIpath_Insider_v2_.jpg",
-      "speakers": []
+    "title": "From Feedback to Features: Maximize your impact as a UiPath Insider",
+    "description": "Discover the vital role you play in shaping the future of automation through early testing and feedback. Get pro tips to become an early adopter superstar, learn how fellow customers have impacted product development in their favor by testing their unique scenarios early, and be the first to get exclusive access to upcoming private previews of cutting-edge Generative AI capabilities. Join us and drive the future of automation as a UiPath Insider.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=877795675&id=82abf89e59",
+    "videoId": "82abf89e59",
+    "videoAccountId": "877795675",
+    "image": "https://images.ctfassets.net/5965pury2lcm/1Lpu7AS3yVVujtgf8Ek8ad/d03e544f196964a592834e650bf63811/From_Feedback_to_Features_-_Maximize_your_impact_as_a_UIpath_Insider_v2_.jpg",
+    "speakers": []
   },
   {
-      "title": "Migrating to Automation Cloud",
-      "description": "The aim of this in-depth session is to equip you with the knowledge and tools you need to successfully plan and execute a migration to UiPath Automation Cloud, so you too can start taking advantage of the full UiPath Business Automation Platform as SaaS. We'll cover the latest AI features of the cloud migration tool and offer guidance tailored to your needs for starting with Automation Cloud. You'll also get to explore case studies illustrating how major challenges are typically tackled, and we'll answer your questions on performance and security implications.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875288451&id=62231ef0d2",
-      "videoId": "62231ef0d2",
-      "videoAccountId": "875288451",
-      "image": "https://images.ctfassets.net/5965pury2lcm/4q9a6Gnz7TP9CYVe5DwXQ0/72067d9256f3d0d6dc7f887820b8eb57/Migrating_to_Automation_Cloud_.jpg",
-      "speakers": []
+    "title": "Migrating to Automation Cloud",
+    "description": "The aim of this in-depth session is to equip you with the knowledge and tools you need to successfully plan and execute a migration to UiPath Automation Cloud, so you too can start taking advantage of the full UiPath Business Automation Platform as SaaS. We'll cover the latest AI features of the cloud migration tool and offer guidance tailored to your needs for starting with Automation Cloud. You'll also get to explore case studies illustrating how major challenges are typically tackled, and we'll answer your questions on performance and security implications.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875288451&id=62231ef0d2",
+    "videoId": "62231ef0d2",
+    "videoAccountId": "875288451",
+    "image": "https://images.ctfassets.net/5965pury2lcm/4q9a6Gnz7TP9CYVe5DwXQ0/72067d9256f3d0d6dc7f887820b8eb57/Migrating_to_Automation_Cloud_.jpg",
+    "speakers": []
   },
   {
-      "title": "Unleash the Power of Coded Automation for Testers",
-      "description": "Coded automation enables UiPath customers to automate tests and processes in three ways: no-code for business users, low-code for power users, and now coded automation for technical developers. Coded automation is for developers who need to automate or test more complex use cases. Join Thomas Stocker to learn how coded automation works, when to use it, and how to get started.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116172&id=dab86f4423",
-      "videoId": "dab86f4423",
-      "videoAccountId": "875116172",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2ts3tuT31RYQBI7zRll8qO/4f45a4d6c8a5d1e86e21624fcdece414/Unleash_the_Power_of_Coded_Automation_for_Testers_.jpg",
-      "speakers": []
+    "title": "Unleash the Power of Coded Automation for Testers",
+    "description": "Coded automation enables UiPath customers to automate tests and processes in three ways: no-code for business users, low-code for power users, and now coded automation for technical developers. Coded automation is for developers who need to automate or test more complex use cases. Join Thomas Stocker to learn how coded automation works, when to use it, and how to get started.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116172&id=dab86f4423",
+    "videoId": "dab86f4423",
+    "videoAccountId": "875116172",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2ts3tuT31RYQBI7zRll8qO/4f45a4d6c8a5d1e86e21624fcdece414/Unleash_the_Power_of_Coded_Automation_for_Testers_.jpg",
+    "speakers": []
   },
   {
-      "title": "Migrating from Legacy Testing Tools: A deep dive into best practices",
-      "description": "The promise of modernizing your testing practice with an AI-powered solution, like UiPath Test Suite, is exciting for testing teams who haven't encountered test automation innovation for decades. In this session, we'll explore some of the best practices and strategies for effectively streamlining the migration to UiPath so you can transform your testing today.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875120855&id=45332c9f02",
-      "videoId": "45332c9f02",
-      "videoAccountId": "875120855",
-      "image": "https://images.ctfassets.net/5965pury2lcm/7dTx5zex5Ibq9YwYgQ030e/38ecf88daf46e1c87a15c9a2a162cfb9/Migrating_from_Legacy_Testing_Tools__A_deep_dive_into_best_practices_.jpg",
-      "speakers": []
+    "title": "Migrating from Legacy Testing Tools: A deep dive into best practices",
+    "description": "The promise of modernizing your testing practice with an AI-powered solution, like UiPath Test Suite, is exciting for testing teams who haven't encountered test automation innovation for decades. In this session, we'll explore some of the best practices and strategies for effectively streamlining the migration to UiPath so you can transform your testing today.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875120855&id=45332c9f02",
+    "videoId": "45332c9f02",
+    "videoAccountId": "875120855",
+    "image": "https://images.ctfassets.net/5965pury2lcm/7dTx5zex5Ibq9YwYgQ030e/38ecf88daf46e1c87a15c9a2a162cfb9/Migrating_from_Legacy_Testing_Tools__A_deep_dive_into_best_practices_.jpg",
+    "speakers": []
   },
   {
-      "title": "SAP Change Impact Analysis: Using AI to test SAP more precisely",
-      "description": "In addition to our SAP Endorsed offerings, UiPath also recognizes how testing SAP upgrades and migrations is tedious and costly, leading to delays and production defects. The new Change Impact Analysis for SAP enables more targeted testing, of both applications and automations, based on the changes introduced. Join Lev Kushnir to learn how to get started with Change Impact Analysis and explore how your peers plan to roll it out.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116826&id=d8f89740c3",
-      "videoId": "d8f89740c3",
-      "videoAccountId": "875116826",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2woJNL0kZunV82k2UIInW0/5afa2fdb3e7c9ee8a7e47fa26fcd8816/SAP_Change_Impact_Analysis__Using_AI_to_test_SAP_more_precisely_.jpg",
-      "speakers": []
+    "title": "SAP Change Impact Analysis: Using AI to test SAP more precisely",
+    "description": "In addition to our SAP Endorsed offerings, UiPath also recognizes how testing SAP upgrades and migrations is tedious and costly, leading to delays and production defects. The new Change Impact Analysis for SAP enables more targeted testing, of both applications and automations, based on the changes introduced. Join Lev Kushnir to learn how to get started with Change Impact Analysis and explore how your peers plan to roll it out.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875116826&id=d8f89740c3",
+    "videoId": "d8f89740c3",
+    "videoAccountId": "875116826",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2woJNL0kZunV82k2UIInW0/5afa2fdb3e7c9ee8a7e47fa26fcd8816/SAP_Change_Impact_Analysis__Using_AI_to_test_SAP_more_precisely_.jpg",
+    "speakers": []
   },
   {
-      "title": "Getting a Quick Start with UiPath Test Suite: Migration and operating model",
-      "description": "Adopting a new testing platform is exciting but comes with its own challenges. This session, led by UiPath Professional Services, will explore strategies for migrating from legacy tooling, including common pitfalls and best practices for running your test practice on UiPath Test Suite.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875229123&id=f2201da428",
-      "videoId": "f2201da428",
-      "videoAccountId": "875229123",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2WAN8BoqmYKP3U8SWkxeTv/bdff7b355f70c642ec02b3d14d36539a/Getting_a_Quick_Start_with_UiPath_Test_Suite__Migration_and_operating_model_.jpg",
-      "speakers": []
+    "title": "Getting a Quick Start with UiPath Test Suite: Migration and operating model",
+    "description": "Adopting a new testing platform is exciting but comes with its own challenges. This session, led by UiPath Professional Services, will explore strategies for migrating from legacy tooling, including common pitfalls and best practices for running your test practice on UiPath Test Suite.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875229123&id=f2201da428",
+    "videoId": "f2201da428",
+    "videoAccountId": "875229123",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2WAN8BoqmYKP3U8SWkxeTv/bdff7b355f70c642ec02b3d14d36539a/Getting_a_Quick_Start_with_UiPath_Test_Suite__Migration_and_operating_model_.jpg",
+    "speakers": []
   },
   {
-      "title": "Tailoring the UiPath Testing Framework: How Ness set the stage for automation scaling in a leading consumer bank",
-      "description": "Enterprise financial services corporations must deliver a superior customer experience to effectively compete for demanding consumers. To ensure a superior experience, it is imperative to expedite the delivery of capabilities while concurrently mitigating production-related risks. This entails reducing the effort expended on testing per test cycle and enhancing time-to-market. During this session, we will delve into the framework that has underpinned the successful adoption of the UiPath Test Suite by this Global 500 consumer bank. This discussion will encompass a range of proven practices, encompassing areas such as automation driven by reusability, governance, security, environment management, test data parameterization, log management, and comprehensive reporting.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875231730&id=45245e727b",
-      "videoId": "45245e727b",
-      "videoAccountId": "875231730",
-      "image": "https://images.ctfassets.net/5965pury2lcm/1jK4zV8SfDnhn5apXK1ydv/bd66fdc0165c4116b53738b0a0a17dec/Tailoring_the_UiPath_Testing_Framework__How_Ness_set_the_stage_for_automation_scaling_in_a_leading_consumer_bank_.jpg",
-      "speakers": []
+    "title": "Tailoring the UiPath Testing Framework: How Ness set the stage for automation scaling in a leading consumer bank",
+    "description": "Enterprise financial services corporations must deliver a superior customer experience to effectively compete for demanding consumers. To ensure a superior experience, it is imperative to expedite the delivery of capabilities while concurrently mitigating production-related risks. This entails reducing the effort expended on testing per test cycle and enhancing time-to-market. During this session, we will delve into the framework that has underpinned the successful adoption of the UiPath Test Suite by this Global 500 consumer bank. This discussion will encompass a range of proven practices, encompassing areas such as automation driven by reusability, governance, security, environment management, test data parameterization, log management, and comprehensive reporting.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875231730&id=45245e727b",
+    "videoId": "45245e727b",
+    "videoAccountId": "875231730",
+    "image": "https://images.ctfassets.net/5965pury2lcm/1jK4zV8SfDnhn5apXK1ydv/bd66fdc0165c4116b53738b0a0a17dec/Tailoring_the_UiPath_Testing_Framework__How_Ness_set_the_stage_for_automation_scaling_in_a_leading_consumer_bank_.jpg",
+    "speakers": []
   },
   {
-      "title": "Discover Continuous AI-Powered Quality",
-      "description": "Join Ingo Philipp as he demonstrates the newest features that bring AI into every phase of the testing lifecycle. You'll see how to generate test cases and steps to build automations from comments. You'll also see AI-generated insights, which allow you to better understand and optimize the quality of your automations.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875227097&id=a2484c0804",
-      "videoId": "a2484c0804",
-      "videoAccountId": "875227097",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6xuJyvvv6L8Lx6WTKlqO1D/c6cdf96313d8edd4404f3e1124e78448/Discover_Continuous_AI-Powered_Quality_.jpg",
-      "speakers": []
+    "title": "Discover Continuous AI-Powered Quality",
+    "description": "Join Ingo Philipp as he demonstrates the newest features that bring AI into every phase of the testing lifecycle. You'll see how to generate test cases and steps to build automations from comments. You'll also see AI-generated insights, which allow you to better understand and optimize the quality of your automations.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875227097&id=a2484c0804",
+    "videoId": "a2484c0804",
+    "videoAccountId": "875227097",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6xuJyvvv6L8Lx6WTKlqO1D/c6cdf96313d8edd4404f3e1124e78448/Discover_Continuous_AI-Powered_Quality_.jpg",
+    "speakers": []
   },
   {
-      "title": "Meet the Process Heatmap That Ensures Automation Quality",
-      "description": "Improving the quality of your automations lets you scale faster and boost your stakeholders' satisfaction. In this session, you'll learn about the new process heatmap feature and how it provides automation teams with a risk-based visualization of their automated processes. Once generated, the heatmap can be used to identify which processes require testing using metrics like activity coverage or error rate.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875230753&id=66fe3080d5",
-      "videoId": "66fe3080d5",
-      "videoAccountId": "875230753",
-      "image": "https://images.ctfassets.net/5965pury2lcm/5CWSyuVgTrIxgKgMZXPHUt/896111a881a59d54766123695d84888d/Meet_the_Process_Heatmap_That_Ensures_Automation_Quality_.jpg",
-      "speakers": []
+    "title": "Meet the Process Heatmap That Ensures Automation Quality",
+    "description": "Improving the quality of your automations lets you scale faster and boost your stakeholders' satisfaction. In this session, you'll learn about the new process heatmap feature and how it provides automation teams with a risk-based visualization of their automated processes. Once generated, the heatmap can be used to identify which processes require testing using metrics like activity coverage or error rate.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875230753&id=66fe3080d5",
+    "videoId": "66fe3080d5",
+    "videoAccountId": "875230753",
+    "image": "https://images.ctfassets.net/5965pury2lcm/5CWSyuVgTrIxgKgMZXPHUt/896111a881a59d54766123695d84888d/Meet_the_Process_Heatmap_That_Ensures_Automation_Quality_.jpg",
+    "speakers": []
   },
   {
-      "title": "New Tools and Strategies for UiPath Solutions Management",
-      "description": "Join us to see and hear about exciting new solutions management capabilities coming to the UiPath Business Automation Platform in the 2023.10 release (and beyond). Learn how to bundle together all solution components and define a default deployment configuration. You'll be able to use those to easily transport solutions across tenants and orgs, then deploy and upgrade more easily through wizard-driven tools. The session will show some of the currently available tools in action and highlight future plans as well.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875293742&id=4dffaf7308",
-      "videoId": "4dffaf7308",
-      "videoAccountId": "875293742",
-      "image": "https://images.ctfassets.net/5965pury2lcm/59jnCU9aNmy8lKBRfYer9Q/792270ea647929bb203ce40add9865ee/New_Tools_and_Strategies_for_UiPath_Solutions_Management_.jpg",
-      "speakers": []
+    "title": "New Tools and Strategies for UiPath Solutions Management",
+    "description": "Join us to see and hear about exciting new solutions management capabilities coming to the UiPath Business Automation Platform in the 2023.10 release (and beyond). Learn how to bundle together all solution components and define a default deployment configuration. You'll be able to use those to easily transport solutions across tenants and orgs, then deploy and upgrade more easily through wizard-driven tools. The session will show some of the currently available tools in action and highlight future plans as well.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875293742&id=4dffaf7308",
+    "videoId": "4dffaf7308",
+    "videoAccountId": "875293742",
+    "image": "https://images.ctfassets.net/5965pury2lcm/59jnCU9aNmy8lKBRfYer9Q/792270ea647929bb203ce40add9865ee/New_Tools_and_Strategies_for_UiPath_Solutions_Management_.jpg",
+    "speakers": []
   },
   {
-      "title": "Unleash the Power of Coded Automation For RPA Developers",
-      "description": "Coded automation will enable every UiPath customer the ability to automate processes in three ways: no-code for business users, low-code for power users, and now coded automation for technical developers who need to automate more complex use cases.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875450240&id=1071fcfb34",
-      "videoId": "1071fcfb34",
-      "videoAccountId": "875450240",
-      "image": "https://images.ctfassets.net/5965pury2lcm/6Md3tNQdS2BJ3XcweP0sT5/9b4972076479412af8636b461e4ddf9f/Unleash_the_Power_of_Coded_Automation_For_RPA_Developers_.jpg",
-      "speakers": []
+    "title": "Unleash the Power of Coded Automation For RPA Developers",
+    "description": "Coded automation will enable every UiPath customer the ability to automate processes in three ways: no-code for business users, low-code for power users, and now coded automation for technical developers who need to automate more complex use cases.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875450240&id=1071fcfb34",
+    "videoId": "1071fcfb34",
+    "videoAccountId": "875450240",
+    "image": "https://images.ctfassets.net/5965pury2lcm/6Md3tNQdS2BJ3XcweP0sT5/9b4972076479412af8636b461e4ddf9f/Unleash_the_Power_of_Coded_Automation_For_RPA_Developers_.jpg",
+    "speakers": []
   },
   {
-      "title": "New Automation Cloud Features for Managing and Monitoring Licensing",
-      "description": "In this session, we'll unveil some new capabilities in Automation Cloud that make it easier to understand and manage your licensing position. Join us to hear about how we clarify unit consumption, show you how to get the most out of user licensing in Automation Cloud, and introduce other new features to make licensing administration easier that will be part of the 2023.10 release.",
-      "category": "TechEd Day",
-      "videoType": "Vimeo",
-      "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875347555&id=1700609a1c",
-      "videoId": "1700609a1c",
-      "videoAccountId": "875347555",
-      "image": "https://images.ctfassets.net/5965pury2lcm/2s5qaI6rxnjfrMch7k1ZW2/8444ab40280791a374eeebb46f5bb2cb/New_Automation_Cloud_Features_for_Managing_and_Monitoring_Licensing_.jpg",
-      "speakers": []
+    "title": "New Automation Cloud Features for Managing and Monitoring Licensing",
+    "description": "In this session, we'll unveil some new capabilities in Automation Cloud that make it easier to understand and manage your licensing position. Join us to hear about how we clarify unit consumption, show you how to get the most out of user licensing in Automation Cloud, and introduce other new features to make licensing administration easier that will be part of the 2023.10 release.",
+    "category": "TechEd Day",
+    "videoType": "Vimeo",
+    "video url": "https://www.uipath.com/events/forward/event-video-recap?account=875347555&id=1700609a1c",
+    "videoId": "1700609a1c",
+    "videoAccountId": "875347555",
+    "image": "https://images.ctfassets.net/5965pury2lcm/2s5qaI6rxnjfrMch7k1ZW2/8444ab40280791a374eeebb46f5bb2cb/New_Automation_Cloud_Features_for_Managing_and_Monitoring_Licensing_.jpg",
+    "speakers": []
   }
 ]
