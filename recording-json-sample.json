@@ -2,7 +2,7 @@
   {
     "code": "2321",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "Bringing AI to Life with AI at Work",
     "description": "<p>Chief Brand Officer Mary Tetlow and Chief Marketing Officer Bobby Patrick kick off FORWARD VI with an overview of what's ahead for the next two days.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ZTFSy9M1sbudhbmd9MQlm/5b9c4ebd84e529a6437c60508a8b079e/placeholder-session.png",
@@ -35,7 +35,7 @@
   {
     "code": "2322",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "The Case for Change: Transformational Outcomes with AI at Work",
     "description": "<p>UiPath Co-CEO Rob Enslin opens the FORWARD VI main stage sessions with an inspiring look at the biggest AI-fueled opportunities for transforming customer and employee experiences, spurring innovation and profitable growth, and pumping up productivity. He'll be joined by customers sharing how they fast-tracked their journey to value with the help of AI-powered automation.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1cYY0B9FfrVKsWXgMSpO8X/1612f768d6e59fd77a5571e7629b0c87/The_Case_for_Change-_Transformational_Outcomes_with_AI_at_Work.png",
@@ -88,7 +88,7 @@
   {
     "code": "2323",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "An AI-Powered Automation Platform for Everyone ",
     "description": "<p>What makes us a truly AI-powered automation platform and what has the UiPath product organization done to ensure our platform has the strength and capabilities to power your organization's AI execution? UiPath Chief Product Officer Graham Sheldon takes us through the UiPath AI strategy, roadmap, and rationale along with a first look at some near-in (but far-out) new AI-powered capabilities coming soon to a UiPath Platform near you.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/3FcmIUiVHBa0pnsUkhvlyS/e6c564569afa8a38f70104ffbfa96ad4/An_AI-Powered_Automation_Platform_for_Everyone_.jpg",
@@ -151,7 +151,7 @@
   {
     "code": "2401",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "Scaling AI-Powered Automation in Insurance",
     "description": "<p>Join Nita Norman (Enterprise Optimization and Automation Executive manager, Insurance Australia Group) and Brian Collins (Partner, EY) to discuss how IAG is scaling their successful automation program. And aiming to deliver additional automation benefits to the business over the next three years. <br /></p>\n\n<p>In this session, you'll learn how IAG is expanding its successful automation program. They are delivering more business benefits through their \"Continuous Value Chain Optimization\" approach. This approach focuses on more end-to-end automation, utilizing multiple technologies, and process improvement techniques, and embedding change management. The IAG automation team is using their experience to employ new ways of working to focus on automation projects that are directly improving business KPIs and customer outcomes.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/3v2N3B865iPTYTNoegBNQF/900630d6e9c2c409880473912296fd89/Scaling_AI-Powered_Automation_in_Insurance.jpg",
@@ -184,7 +184,7 @@
   {
     "code": "2397",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "Reimagine Investment Banking with UiPath and Generative AI",
     "description": "<p>Lazard undertook a transformative journey to reimagine its investment banker function. By harnessing the UiPath Platform and integrating Gen AI technologies, they've revolutionized their core automation processes. Their achievement was multifaceted: enhanced efficiency, improved employee satisfaction, enriched client experience, and notable business growth. This transformation initiative fostered a culture of innovation, positioning Lazard as an up-and-coming pioneer in AI-driven automation within the financial sector. This presentation will delve into the challenges, solutions, and benefits of this transformative journey.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/3fYwd0LF2gOyituT9iQAai/eced00c855512d302908777d7ebdec46/Reimagine_Investment_Banking_with_UiPath_and_Generative_AI.jpg",
@@ -217,7 +217,7 @@
   {
     "code": "2396",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "From Reels to Reality: The new era of AI and automation in media and entertainment with Warner Bros. Discovery",
     "description": "<p>Join us at the Vision Stage for a captivating session on how advanced automation is transforming the world of media and entertainment that we all love. Learn how Warner Bros. Discovery—in collaboration with Capgemini and UiPath—is revolutionizing its business processes in an industry where scale and outcomes drive success. Discover insights and lessons learned from strategic implementations that are enabling people across the globe to savor superior media content. You will also learn how the transformative power of applied and Generative AI can shape your future automation journey. At FORWARD VI, we unveil the possibilities of tomorrow, today!</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6xr5SAFnRFmyBP8swM7sbp/210f93114c3dd505454b3aef1de4fe9f/From_Reels_to_Reality-_The_new_era_of_AI_and_automation_in_media_and_entertainment_with_Warner_Bros._Discovery_.jpg",
@@ -250,7 +250,7 @@
   {
     "code": "2398",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "Charting the Course: Navigating the Navy's Journey with Automation",
     "description": "<p>This session will delve into the dynamic evolution of the Department of the Navy's journey with automation & AI. Discover the milestones achieved in establishing a centralized center of excellence, propelling automation adoption across the Navy. Explore lessons-learned, best practices, and the future of Navy automation, transforming government processes and technology in this unique environment.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/3ySKuy8eVDHyPDlOaaQ5BD/87f101414e36f8f92d5ec6080a0019d4/Charting_the_Course-_Navigating_the_Navy-s_Journey_with_Automation_.jpg",
@@ -283,7 +283,7 @@
   {
     "code": "2314",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Get the Most Out of Your UiPath Investment: Exploring the top four features that go beyond RPA",
     "description": "<p>Since forming in 2005, a lot has changed at UiPath. We've evolved from a platform with three core products to more than 20.</p>\n\n<p> </p>\n\n<p>As a customer, that's exciting news for you. Hear directly from CoEs to learn how they're going beyond RPA today with <strong>Test Manager, Communications Mining, and Automation Cloud.</strong></p>\n\n<p> </p>\n\n<p>1. VMware tests their automations and apps with <strong>Test Manager</strong>, reducing error rates by 96%</p>\n\n<p> </p>\n\n<p>2. How Paychex is returning $7 million to the business by discovering automation opportunities with <strong>Communications Mining</strong></p>\n\n<p> </p>\n\n<p>3. Best practices for moving to <strong>Automation Cloud </strong>with Reveal Group</p>\n\n<p> </p>\n\n<p>4. Industrial Bank of Korea (IBK) has automated more than 1.6 million hours of work. Integral to their journey has been learning how to manage 150 robots. They'll share lessons learned, and their vision for incorporating newer elements of the UiPath Business Automation Platform like UiPath Apps to fuel engagement in 600 branches.</p>\n\n<p> </p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1LQk5uurArrxh3nt0X53cs/bc48d01ba1f9f0a3b6d39a41933ba5ba/How_to_Get_the_Most_Out_of_Your_UiPath_Investment_Exploring_the_top_four_features_that_go_beyond_RPA_.jpg",
@@ -356,7 +356,7 @@
   {
     "code": "2313",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "The Value of Neurodiverse Talent in AI & Automation",
     "description": "<p>Employing AI and automation to gain a competitive edge is well established, but did you know the same is true for assembling diverse teams to build and refine machine learning models? As AI progresses at unprecedented speed, it is crucial to recognize the distinct cognitive abilities of neurodiverse talent and how they can contribute to training AI models to make them more inventive and efficient. Join us as we delve into how AutonomyWorks helped customers like dentsu save hours of repetitive tasks while upholding a high standard of quality in managing AI training processes.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/JLLczyJuqmk4BD5smFjun/a130e40a3e4508b51f6d3cfe77b55d29/The_Value_of_Neurodiverse_Talent_in_AI___Automation.jpg",
@@ -389,7 +389,7 @@
   {
     "code": "2301",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "Going Big with AI-Powered Automation to Get Big Outcomes",
     "description": "<p>How do you get big outcomes from AI-powered automation? You go big with imaginative ideas about how to solve important problems, gain executive buy-in, and engage employees across the organization. Learn from Equifax, Sky UK and Expion Health executives and their journeys to big outcomes enabled through AI-powered automation.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1IQ9GqqapQ4YklRyD8jutc/d2dbd907e5ec492ed02d9e8084ba875e/Going_Big_with_AI-Powered_Automation_to_Get_Big_Outcomes_.jpg",
@@ -442,7 +442,7 @@
   {
     "code": "2315",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Upskill your Automation CoE for the AI Revolution",
     "description": "<p>Good news! If you've built an <em>automation center of excellence (CoE)</em>, you're well on your way to having an <em>AI CoE</em>. But navigating the training needed to upskill your business analysts, developers, and solution architects for the AI-powered era takes planning, and a new paradigm in how we prepare the next generation with automation skills.</p>\n\n<p>Hear best practices for AI upskilling from Dexcom, University of Washington, Greenlight Consulting, and the UiPath Academic Alliance.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/26GygF8yKrmQB5xhIwAgwl/08d022533b583a40ad33f0d2fc9e29dd/How_to_Upskill_your_Automation_CoE_for_the_AI_Revolution_.jpg",
@@ -505,7 +505,7 @@
   {
     "code": "2302",
     "sessionType": "Breakout",
-    "category": "Inspiration Theater",
+    "category": "Inspiration",
     "title": "Responsible AI for Responsible Automation in the Generative Era",
     "description": "<p>Generative AI is a natural extension to intelligent automation. However, enterprises embarking on their Generative AI journey are dealing with a new challenge: trust!</p>\n\n<p>As Generative AI is integrated into core automations, the integration of responsible AI frameworks into the entire AI-powered automation lifecycle becomes critical.</p>\n\n<p>Join us and hear from Jagjit Dhaliwal, Global Alliance Leader, Intelligent Automation at Amazon Web Services. Dhaliwal will explain the six dimensions to help harness trusted generative AI outcomes as your teams are building automations at scale: bias and fairness, explainability, robustness, privacy and security, governance, and transparency.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ZTFSy9M1sbudhbmd9MQlm/5b9c4ebd84e529a6437c60508a8b079e/placeholder-session.png",
@@ -517,7 +517,7 @@
   {
     "code": "2310",
     "sessionType": "Breakout",
-    "category": "Inspiration Theater",
+    "category": "Inspiration",
     "title": "Bedazzle your Organization with AI: What to expect, where is the highest ROI, and how intelligent document processing is leading the pack",
     "description": "<p>Join Everest Group's Amardeep Modi, VP and leading analyst in the topics of AI, intelligent automation, discovery, and IDP, as he presents the very revealing findings of a survey among CXOs and practitioners on how they understand, deploy, and get value out of AI in their organizations.</p>\n\n<p>Following that, Don Sweeney, Co-Founder, Co-CEO, of Ashling Partners, will lead a discussion with global organizations like Dexcom, A. O. Smith, and Littelfuse on how they leveraged AI capabilities such as intelligent document processing to overcome significant challenges they had in their organizations. Each group will provide a deep dive into their automation program and provide valuable suggestions for successful IDP implementations as well as lessons learned on how they would do it differently.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/q4FGV8mRmivg5LnNiRCjB/a5a697d6b4536086f033d066b4957dab/Bedazzle_your_Organization_with_AI-_What_to_expect__where_is_the_highest_ROI.jpg",
@@ -570,7 +570,7 @@
   {
     "code": "2316",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Actually Deploy AI: This is how Snap, Jefferies, and Roboyo do it",
     "description": "<p>AI is on everyone's mind. The possibilities are endless, but real-life use cases can feel limited. That's why this session with social media giant Snap and global financial services powerhouse Jefferies, along with their automation partner, Roboyo, is so exciting.</p>\n\n<p>Join this session to learn the role AI is playing in enterprise automation journeys and benchmark these enterprises on how to identify and adopt AI-powered automation solutions.</p>\n\n<p>Learn about:</p>\n\n<ul>\n\t<li>Building the business case for AI-powered automation solutions such as Document Understanding and Communications Mining</li>\n\t<li>Automating the Accounts Payable process with Document Understanding (freeing up 50% of staff for higher value work)</li>\n\t<li>Leveraging Document Understanding and Communications Mining to automate the processing of incoming trade requests via email</li>\n</ul>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1S5rhtAl5XY3fILxA6XgGZ/42de75d07d8cfb936ef3c44243b60336/How_to_Actually_Deploy_AI_This_is_how_Snap__Jefferies__and_Roboyo_do_it_.jpg",
@@ -613,7 +613,7 @@
   {
     "code": "2311",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "Reimagining the Customer Journey High above the Clouds through Automation and AI",
     "description": "<p>AI-powered automation is unlocking unlimited potential for airlines and rapidly transforming the industry. Digital technologies are being used to personalize the customer experience, predict customer needs, drive operational excellence, and create a more sustainable future. Learn how the world's leading airlines are leveraging digital technologies including AI-powered automation to drive profitable growth, enhance customer service, and solve strategic business challenges.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/4AXGpTKmgbF06NzmiWFgYe/ea3ca4c4d328c486a615773e6c27244b/Reimagining_the_Customer_Journey_High_above_the_Clouds_through_Automation_and_AI_.jpg",
@@ -656,7 +656,7 @@
   {
     "code": "2317",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Take \"Citizen Development\" from Buzzword to Reality",
     "description": "<p>Citizen development can have profound impact on your business. But far too often it's seen as a meaningless buzzword with little real world impact. <br /></p>\n\n<p>This session shows you how SOCAR Turkey, Wesco Distribution, and ConocoPhillips use real life citizen development programs to:</p>\n\n<ul>\n\t<li>Drive operational efficiency and enhance the customer experience</li>\n\t<li>Foster digital transformation across their organizations and personal transformation amongst their employees</li>\n\t<li>Remain competitive in the era of automation and AI</li>\n</ul>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1j4KoEPQkRQGWBdlhjlvBM/e47ed4500af5b641d06f06c670717349/How_to_Take_-Citizen_Development-_from_Buzzword_to_Reality_.jpg",
@@ -709,7 +709,7 @@
   {
     "code": "2305",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "Scaling AI-Powered Automation for Long-Term Value",
     "description": "<p>How do you design a successful journey to deliver long-term value from AI-powered automation? Learn from our customers that have mastered how to optimize operational efficiency, employee engagement, and infrastructure while making their customers more successful. Gain practical insight and tips to manage increased demand from more lines of business and create integrated digital and AI solutions to automate even more processes. Learn how establishing and executing the right operating model to scale AI-powered automation drives long-term organizational value.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/130rwiXEFdKs2cYQ6nhZpx/bd5062d55f95404acb7a766cc432b4b4/Scaling_AI-Powered_Automation_for_Long-Term_Value_.jpg",
@@ -762,6 +762,7 @@
   {
     "code": "2385",
     "sessionType": "Breakout",
+    "category": "Journey",
     "title": "FORWARD Thinkers: Unleashing the Power of Women ",
     "description": "<p>Get ready to be inspired! This panel brings together remarkable women who are not just leaders, but trailblazers in their respective fields. This panel is your chance to dive into the journeys of these extraordinary women who have climbed the ladder, shattered ceilings, and are now at the helm of industry-leading organizations.</p>\n\n<p><br /></p>\n\n<p>You'll get an inside look at how these leaders have faced adversity, nurtured collaboration, and championed diversity, equity, and inclusion. So, if you're ready to gain practical insights, be inspired, and connect with a network of forward-thinking women, grab your seat early!</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/7pCEUlA94HnEdkJlKcQLCV/7a49eec37ce0f6e5ad715a6b35ce45ae/FORWARD_Thinkers-_Unleashing_the_Power_of_Women_.jpg",
@@ -824,7 +825,7 @@
   {
     "code": "2326",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "The UiPath Blueprint for AI at Work",
     "description": "<p>AI can be transformative for every enterprise but not if it remains an aspiration and never progresses into execution. David Barber and Luke Palamara, AI scientists, strategists, and experts in operationalizing and monetizing AI, share our plans and our progress in building capabilities into UiPath technology that organizations need for discovering, automating, and operating AI-enriched business processes throughout their operations.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1EbGuxWKqmHN59H6CBZYfH/73e4185a19dd5e4821b607457f881191/The_UiPath_Blueprint_for_AI_at_Work.jpg",
@@ -867,7 +868,7 @@
   {
     "code": "2329",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "Founder's Keynote: The Road Ahead",
     "description": "<p>UiPath Co-Founder and Co-CEO Daniel Dines shares his inspiring, optimistic picture of the future of work-one where people are freed from the mundane so they can accelerate human achievement.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/76NmoiUZ2kcBpJJRaWTnmf/6d316e7c3a51c39c820d4fc42d0c0897/Founder-s_Keynote-_The_Road_Ahead.png",
@@ -920,7 +921,7 @@
   {
     "code": "2394",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "AI at Work Customer Spotlight featuring Intel Corporation",
     "description": "Join us for an AI10 customer spotlight of Intel, the creator of world-changing technology, showcasing how they are using AI at Work to change how they are managing trade around the world.",
     "image": "https://images.ctfassets.net/5965pury2lcm/45yWfPW8mULHg5r9gmIPx2/56e2e3cdd96484421f8c21d211cf9092/AI_at_Work_Customer_Spotlight_featuring_Intel_Corporation_.jpg",
@@ -953,7 +954,7 @@
   {
     "code": "2328",
     "sessionType": "Keynote",
-    "category": "Keynote Theater",
+    "category": "Keynotes",
     "title": "The AI10 Awards",
     "description": "<p>Recognizing AI at Work leadership.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ZTFSy9M1sbudhbmd9MQlm/5b9c4ebd84e529a6437c60508a8b079e/placeholder-session.png",
@@ -965,7 +966,7 @@
   {
     "code": "2399",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "RISE as a Catalyst for a Clean Core and the Path to Innovation",
     "description": "<p>Learn about the case for cloud and how SAP and UiPath together are working on enterprise automation for our customers. SAP will discuss how customers are making the shift to the latest SAP S/4HANA Cloud platform. And the benefits customers are seeing by moving to the cloud and the related enterprise automation improvements that are happening in parallel.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1uwemuxi0caEt0dKk3WWMm/d57612e8ed6c45ca5f0887ebfccca189/RISE_as_a_Catalyst_for_a_Clean_Core_and_the_Path_to_Innovation_.jpg",
@@ -988,7 +989,7 @@
   {
     "code": "2400",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "Revolutionizing Life Sciences: Navigating the ever-evolving automation landscape ",
     "description": "<p>Join us as Tom Hartey, a representative from a large pharma company, shares his automation journey with Grant Harris from CGI. From his beginning to his current role, Tom offers invaluable insights into the evolving life sciences industry. Tom will detail how use cases have transformed alongside technological advancements in automation. From his experience, he understands the critical role of technology in optimizing operations and increasing efficiency. His company’s success in navigating and embracing technology is a testament to its adaptability in the ever-changing automation landscape. </p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/YvYdo85sLhzXKk60pa9KM/844f8933f07dbf11c32b0cf1d4beb3d8/Revolutionizing_Life_Sciences-_Navigating_the_ever-evolving_automation_landscape_.jpg",
@@ -1011,7 +1012,7 @@
   {
     "code": "2402",
     "sessionType": "Breakout",
-    "category": "Vision Stage",
+    "category": "Vision",
     "title": "The Road to Success through Automation Modernization",
     "description": "<p>How do you gain the most value from automation modernization? In this session, we will be discussing a Cisco business success case story highlighting the challenges the company faced, how the company utilized UiPath as a tool to achieve the greatest outcomes, and the roadmap for the future, including innovating with Gen AI.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/429GsKka8WpjSNmRc06VKV/bdd47ed3aab15d293a534cd8eeafc718/The_Road_to_Success_through_Automation_Modernization_.jpg",
@@ -1026,7 +1027,7 @@
         "designation": "Senior Manager",
         "company": "Cisco",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4m601SazfG4AybGN5LnOlr/210c2ef82d941a584f75a3c4c1e3c9cb/Rajesh_Gopinath.jpg",
         "socials": []
       },
       {
@@ -1036,7 +1037,7 @@
         "designation": "Global RPA Lead",
         "company": "Accenture",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5EbjrIeuBnA9sChtL2MRTu/ed2ca4499cce19cee520b75642f83693/Ram_Krishnamoorthy.jpg",
         "socials": []
       }
     ]
@@ -1044,7 +1045,7 @@
   {
     "code": "2377",
     "sessionType": "Summit",
-    "category": "Customer Experience Summit",
+    "category": "Customer Experience",
     "title": "Customer Experience Summit: Drive sales and your message to your customer across the digital landscape",
     "description": "<p>Maximize ROI and automate some of the most wasteful, frustrating, and inefficient service processes with AI-powered automation. CX leaders are caught between the competing priorities of improved service quality and cost reduction. All while facing unprecedented demand and growing operational complexity. Yet AI-powered automation is helping CX leaders enhance productivity, streamline core service processes, and improve customer and employee experiences. Hear the stories of our customers who have achieved cost transformation and cemented customer loyalty by extending and rapidly scaling automation across their organization.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ZTFSy9M1sbudhbmd9MQlm/5b9c4ebd84e529a6437c60508a8b079e/placeholder-session.png",
@@ -1059,7 +1060,7 @@
         "designation": "Director - AI, ML, Generative AI and Process Reimagination",
         "company": "Foot Locker",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1icRH5IRKrN9g8EswbU2LN/1685b81f0d63899f3105e1b18e047720/Daniele_Longo.jpg",
         "socials": []
       },
       {
@@ -1069,7 +1070,7 @@
         "designation": "Head of Intelligent Automation for Consumer & Small Business Banking Technology ",
         "company": "Wells Fargo",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5Imgs8JAsM8zrMTDH4F1ZF/26700f36113173658a18e290d9fef011/Rajagopal_Malakapalli_1696003747802001mcUv.jpg",
         "socials": []
       },
       {
@@ -1079,17 +1080,17 @@
         "designation": "VP, AI, Automation and Integration ",
         "company": "Foot Locker",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1gVamZt2pELJCDBrH4qRZ6/a6762443d50a77ee1764b03d09308ba5/Vivek_Goel.jpg",
         "socials": []
       },
       {
         "code": "2377",
-        "firstName": "Paul ",
+        "firstName": "Paul",
         "lastName": "Kersey",
         "designation": "Vice President of Product Management",
         "company": "Bed Bath and Beyond / Overstock.com",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6AJnjJACgJHuu14vWHEVsQ/a813bd8e75f1eadde72ec55dd427c94e/Paul_Kersey.jpg",
         "socials": []
       },
       {
@@ -1099,7 +1100,7 @@
         "designation": "Senior Partner Solutions Architect",
         "company": "Amazon Web Services",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6TFPWWlQJtjXwgSh9y0cSa/d1a8998425138e7864d87dc07401a866/Daya_Thakur.jpg",
         "socials": []
       },
       {
@@ -1109,7 +1110,7 @@
         "designation": "Vice President, Industries",
         "company": "qBotica",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6eLP5RqErrQr0X7Ms0JKAC/08ab093b4ed86e7d34517415c24effad/Huw_Williams.jpg",
         "socials": []
       },
       {
@@ -1119,7 +1120,7 @@
         "designation": "Senior Director, Customer Experience Automation",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3OCYZfGxsjP0WT3huzupkH/366bacc2a884805e3a4e6efc82294f20/Brad_Beumer.jpg",
         "socials": []
       },
       {
@@ -1129,7 +1130,7 @@
         "designation": "Senior Manager, Smart Life Business Strategy ",
         "company": "NTT DOCOMO, INC.",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7l4WNzHEMHUO8KO6ztEGJS/388b52315c8dadf443dc8c1f39e33073/Tsuyoshi_Saito.png",
         "socials": []
       },
       {
@@ -1139,7 +1140,7 @@
         "designation": "Strategic Engagement and Transformation Senior Director",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5i1LT1Pz7Qwa4uAlkA2TtR/a05327fef4c5e281aaca55df5bf9e74c/Cam_Lau.png",
         "socials": []
       },
       {
@@ -1149,7 +1150,7 @@
         "designation": "Operational Excellence & Intelligent Process Automation Lead",
         "company": "Finastra",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/irYfydjAkMvwh8sn9MEvp/38129806ae2f577c22233868f7ace1e4/Zainab_Abbas.jpg",
         "socials": []
       }
     ]
@@ -1157,7 +1158,7 @@
   {
     "code": "2373",
     "sessionType": "Summit",
-    "category": "Financial Services Summit",
+    "category": "Financial Services",
     "title": "Financial Services Summit: Navigating optimization, innovation, and risk in a dynamic landscape",
     "description": "<p>Join some of the world's top banks, financial services, and insurance firms at this industry-tailored summit. Glean automation insights and best practices from your peers on:</p>\n\n<ul>\n\t<li>Efficiency and optimization</li>\n\t<li>AI tools and ethics</li>\n\t<li>Managing risk and compliance</li>\n\t<li>Driving innovation amidst a wave of game-changing tools and platforms <br /></li>\n</ul>\n\n<p><br /></p>\n\n<p>According to a recent Accenture study, only 6% of banks are embracing leading technologies. Find out what the other 94% are missing out on and learn how to embrace this game-changing competitive advantage at this must-attend event.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/45dAtDwOk4rSl02IlGpCqx/c3f8e8a589c533aa2bb84ca15788ba80/Financial_Services_Summit.jpg",
@@ -1172,7 +1173,7 @@
         "designation": "Sr Director, Digital Strategy & Automation",
         "company": "OneAmerica Financial",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5euJbnHwo8PE7YMek8XqBS/94e30c68aeffc8c57d8179dee130a41a/Kamlesh_Chaudar.jpg",
         "socials": []
       },
       {
@@ -1182,7 +1183,7 @@
         "designation": "Director, Digital Innovation",
         "company": "HUB International",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3Nj2XCMQxA3RQnuUwGPCU8/db748af741ae89665606e13b42ebf7ca/Thach_Nguyen.jpg",
         "socials": []
       },
       {
@@ -1192,7 +1193,7 @@
         "designation": "VP, Global Financial Services Industry",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1m3oFzehSotEbGsG2v2nWc/ef46be9d815b6f583c23d0e0b89fda10/Tais_O-Dwyer.jpg",
         "socials": []
       },
       {
@@ -1202,7 +1203,7 @@
         "designation": "Executive Director - Intelligent Automation",
         "company": "Wells Fargo",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2oOQ9EwGuTsDnxV8uCYYXc/7a828f9450c23603958150e9e71260f3/Gautam_Oza.jpg",
         "socials": []
       },
       {
@@ -1212,7 +1213,7 @@
         "designation": "SVP Finance",
         "company": "Arvest Bank",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2vfqAtFwfVHtAL10x893FD/cdbf370a255f3e33b29e66d372d6dccd/Chris_Evans.png",
         "socials": []
       },
       {
@@ -1222,17 +1223,17 @@
         "designation": "Vice President & Director of Intelligent Automation",
         "company": "Fifth Third Bank",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2HzMgoQOvqpA1tWKHQ5mB2/5ccac24f0e36c269e2871397e22d5b5b/Gladson_Baby.jpg",
         "socials": []
       },
       {
         "code": "2373",
-        "firstName": "Garry ",
-        "lastName": "Capers ",
+        "firstName": "Garry",
+        "lastName": "Capers",
         "designation": "Chief Operations Officer",
         "company": "Deluxe Corp",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4gF3xoYN5BNcM1gjEi0keB/9bb6fb642cfef77174c74e36db79ad20/Garry_Cappers.jpg",
         "socials": []
       },
       {
@@ -1242,7 +1243,7 @@
         "designation": "Head of AI Strategy",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6eRQwjviNKFZ9A3qM6ht4Y/8b2933a56d76b3cef0b4758a40398539/Edward_Challis.jpg",
         "socials": []
       },
       {
@@ -1252,7 +1253,7 @@
         "designation": "Director Engineering, Robotic Process Automation and Low Code",
         "company": "The Standard",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1YLmfJxnNLcx6rTvKxMWhj/1c9585a77aba533124226c655e0b967a/Denise-Coldwell-Filbin.jpg",
         "socials": []
       },
       {
@@ -1262,7 +1263,7 @@
         "designation": "Executive Manager - Enterprise Optimization and Automation",
         "company": "IAG",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3FF1JGouRvxwaAU0w5jydO/375ad374fa2ce625314704bf3efe3854/Nita_Norman.jpg",
         "socials": []
       },
       {
@@ -1272,17 +1273,17 @@
         "designation": "Vice President - Robotics Process Automation",
         "company": "Prudential Financial",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1SkOndoaNhkhkFMXhqgIqn/fc46efce90fede84f8f9a84642b2c499/Jordan_Wahba.jpg",
         "socials": []
       },
       {
         "code": "2373",
-        "firstName": "Amin ",
+        "firstName": "Amin",
         "lastName": "Kermali",
         "designation": "Vice President - Enterprise Digitization & Automation ",
         "company": "TD Bank Group",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/52iOoJCbrxb0BNDPY8M9TS/60b94af8f35e90f324f6d15cb4c0d5bd/Amin_Kermali.png",
         "socials": []
       },
       {
@@ -1292,7 +1293,7 @@
         "designation": "Head of Automation, Executive Director",
         "company": "J.P. Morgan",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/0wpqYUuNYAhcHiAOz7ACI/f74c7db1a54905223ac6fec035aefb33/Dupe_Witherick.jpg",
         "socials": []
       },
       {
@@ -1302,7 +1303,7 @@
         "designation": "Sr Director Customer Strategy & Transformation",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5MWhr2vag5V4iKXFHj1CzV/4176d96e5df4f11a67ca6d66e582aa4c/Molly_Mecham.jpg",
         "socials": []
       },
       {
@@ -1312,7 +1313,7 @@
         "designation": "Director, Sales Engineering Financial Services",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4SNCgcUx1kbt372yRoWKTr/075ab2ef49efc7ae85a89d2a09d41c8c/Prateek_Gupta.jpg",
         "socials": []
       },
       {
@@ -1322,7 +1323,7 @@
         "designation": "Director, Growth Sales Specialists",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/qhfGdSNnmjVXXqdIsSbsK/6001ead755d287b7e160a63f60728e0c/Arup_Das.jpg",
         "socials": []
       }
     ]
@@ -1330,7 +1331,7 @@
   {
     "code": "2367",
     "sessionType": "Summit",
-    "category": "Healthcare and Life Sciences Summit",
+    "category": "Healthcare and Life Sciences",
     "title": "Healthcare & Life Sciences Summit: AI at the intersection",
     "description": "<p>Join us at this year’s Healthcare and Life Sciences Summit, where we’ll explore how AI-powered automation is at the intersection of the work you must do now to build a strong business foundation and the innovative work that’s critical for growth.<br /></p>\n\n<p>Speakers will discuss:</p>\n\n<ul>\n\t<li>Creating a strong foundation for business areas like revenue cycle management, care delivery, claims management, research and development, and more</li>\n\t<li>Moving from desktop automation to enterprise-wide digital transformation</li>\n\t<li>What AI use cases actually look like for healthcare and life sciences</li>\n</ul>\n\n<p> </p>\n\n<p>Join us to hear what top healthcare and life sciences automation leaders have done with AI-powered automation and, most importantly, how they did it. Get inspired and leave with real knowledge of how to build a strong business foundation while working toward creating innovative solutions that will lead you into the future.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/5yUXjUMSmQPOXgrVQ97Q9q/66d51e9e57f6b538b179b2d562b18fb7/Healthcare___Life_Sciences_Summit__AI_at_the_intersection.jpg",
@@ -1345,7 +1346,7 @@
         "designation": "Business Owner - Intelligent Document Processing & Automation",
         "company": "Blue Cross Blue Shield of North Carolina",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1O9IBOfzpkctB8WHoMwGDn/e5b15cf2415a7a4570d833214d114ba6/generic_image_bio.jpg",
         "socials": []
       },
       {
@@ -1355,7 +1356,7 @@
         "designation": "SVP and CIO",
         "company": "Arkansas Blue Cross Blue Shield",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/116pFEjd6z8OUPFyjH7BOX/e5a51d49c8433e40c17945d32a55eae3/Brett-Trelfa.jpg",
         "socials": []
       },
       {
@@ -1365,7 +1366,7 @@
         "designation": "Global Intelligent Automation Leader",
         "company": "PSI-CRO",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/721j99WCbMXEfD9bPzaoR8/3c4eb602bb8b459dca93739b96e36a81/Doug_Shannon__1_.jpg",
         "socials": []
       },
       {
@@ -1375,17 +1376,17 @@
         "designation": "Data Scientist ",
         "company": "Mayo Clinic",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/79nPb7iOuktiDXsaMf4nuA/31258486b36f1b14a036df7c498e2f91/Kristina_Piorkowski.jpg",
         "socials": []
       },
       {
         "code": "2367",
-        "firstName": "Jared ",
+        "firstName": "Jared",
         "lastName": "Staal",
         "designation": "Sr. Director Revenue Cycle Advanced Analytics and Automation",
         "company": "Mayo Clinic",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1vUk0c5DliRGdbjt3kOBkn/029d8718742f6be822bba9b0f3738f34/Jared_Staal_1696626587403001S8b4.jpg",
         "socials": []
       },
       {
@@ -1395,7 +1396,7 @@
         "designation": "Digital Transformation / Company-Wide Transformation - Business Process Transformation Lead",
         "company": "Daiichi-Sankyo",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1rpSjyUZShyJ6zzGnI9GAt/f0915139d4f8c841524511fc3763fd2c/Michigoe_1692632697726001E3sC.jpg",
         "socials": []
       },
       {
@@ -1405,7 +1406,7 @@
         "designation": "Executive Director",
         "company": "Kaiser Permanente",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4WSyNJv2QEPoqPsUmjrBd0/481ba1881249710f848ad902c0d6d247/Desmond_Cullen.jpg",
         "socials": []
       },
       {
@@ -1415,7 +1416,7 @@
         "designation": "Director, Healthcare & Life Sciences ",
         "company": "Google",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4LqHmLfHYoM02HLDYIJ0l4/1d09649365d60b1e38f88552dc68487a/Shweta_Maniar.png",
         "socials": []
       },
       {
@@ -1425,7 +1426,7 @@
         "designation": "VP Healthcare Industry ",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7ki0f8Q030czfPEGuofObz/e4e33e8e7a91655e1824d06cadcca8e6/Jason_Warrelmann_1696886616134001NG8h.jpg",
         "socials": []
       },
       {
@@ -1435,7 +1436,7 @@
         "designation": "Industry Director, Life Sciences",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1bLHQ72OVMgiIUV1P2G47d/44d7bc199982887f1cb39bd83eacd88a/Joe_Miles.jpg",
         "socials": []
       }
     ]
@@ -1443,7 +1444,7 @@
   {
     "code": "2312",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "How Generac is Powering Enterprise Scale and Positive Customer Experience with AI and Automation",
     "description": "<p>Hear how Generac, the backup generator manufacturer and one of the most trustworthy companies in the U.S., is transforming the company into an energy technology company while keeping customers front and center. Deep dive into Generac's AI-powered automation vision, framework, and best practices that are enabling scale and a transformative customer experience. </p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/puiPtIqfqmdu4Lj7CnRbQ/2d73f29e9952592da915af7001947ad3/How_Generac_is_Powering_Enterprise_Scale_and_Positive_Customer_Experience_with_AI_and_Automation_.jpg",
@@ -1458,7 +1459,7 @@
         "designation": "Sr Director IT - Global Enterprise Applications",
         "company": "Generac",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3Jb0H7qtIkiDxEEsx2IlM8/e65bec8f4eb2b3390611a98e758f7272/Steve_Seroogy.jpg",
         "socials": []
       }
     ]
@@ -1466,7 +1467,7 @@
   {
     "code": "2319",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Accelerate Digital Transformation with SAP and UiPath: UiPath Platform as an SAP Endorsed App",
     "description": "<p>Thousands of UiPath and SAP customers agree: the two platforms are better together. Learn how the UiPath Business Automation Platform is now offered as an SAP Endorsed App and how this game-changing partnership is setting the stage for enterprise-wide automation like never before. We'll be joined by automation leaders from Intel and Applied Materials, who will share how they're driving transformation by automating complex end-to-end processes across SAP and non-SAP systems.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/7EkzoUpDXOnA9DzeRDbAnd/abe58896fcbb43b89e63b4504a2db96f/How_to_Accelerate_Digital_Transformation_with_SAP_and_UiPath-_UiPath_Platform_as_an_SAP_Endorsed_App_.jpg",
@@ -1481,27 +1482,27 @@
         "designation": "Vice President - Americas Sales Engineering",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1iEih5BDXiyIphH1rmvuaE/6f2ead6bab5f937a5bb8d4994a26941b/Chris-Colwell.jpg",
         "socials": []
       },
       {
         "code": "2319",
-        "firstName": "Laura ",
+        "firstName": "Laura",
         "lastName": "Nuckolls",
         "designation": "Business Engagement Lead for the Automation CoE",
         "company": "Applied Materials",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5aHgHlti7XnMYFhtkrVIrr/cfff113b9ee648ba3692e0ab9d7ac363/Laura_Nuckolls.jpg",
         "socials": []
       },
       {
         "code": "2319",
-        "firstName": "Siddharth 'Sid' ",
+        "firstName": "Siddharth",
         "lastName": "Shah",
         "designation": "Automation Leader",
         "company": "Intel",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/13sjKWWGYCcBwNxjZ84Kuv/2a5d00f2abfed9cba3ab65e46c36b8f1/Siddharth-shah.jpg",
         "socials": []
       },
       {
@@ -1511,7 +1512,7 @@
         "designation": "Senior Vice President and Managing Director, Midwest Market Unit",
         "company": "SAP",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2qTwAu5xCjHOVaEKGlwilf/bd4b9b74d09aa7bdd1299e81b3ba7515/Kerri_Tenbrunsel.jpg",
         "socials": []
       }
     ]
@@ -1519,7 +1520,7 @@
   {
     "code": "2378",
     "sessionType": "Summit",
-    "category": "Manufacturing and Supply Chain Summit",
+    "category": "Manufacturing and Supply Chain",
     "title": "Industry 5.0: Manufacturing and supply chain driven by AI-powered automation ",
     "description": "<p>Today's manufacturing execs face a series of internal and macroeconomic challenges that can seriously impact organizational productivity, customer experience, revenue growth, and meeting sustainability standards and regulations. AI-powered automation offers substantial benefits to manufacturing companies, both in their operations and business processes. It can:</p>\n\n<ul>\n\t<li>Boost sourcing and supply chain productivity</li>\n\t<li>Grow revenue</li>\n\t<li>Upgrade the quality of compliance and sustainability</li>\n</ul>\n\n<p>Join global automation leaders at leading manufacturing companies at this year's FORWARD VI Manufacturing and Supply Chain Summit, who leverage the UiPath Business Automation Platform to accelerate innovation and drive revenue for the organization while achieving process efficiencies that streamline costs.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6cKm2NSxbao1AE06ud9dbT/9e59f3b5ef063009b64f0be416ac6a6b/Industry_5.0_Manufacturing_and_supply_chain_driven_by_AI-powered_automation.jpg",
@@ -1534,7 +1535,7 @@
         "designation": "Vice President - Americas Sales Engineering",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1iEih5BDXiyIphH1rmvuaE/6f2ead6bab5f937a5bb8d4994a26941b/Chris-Colwell.jpg",
         "socials": []
       },
       {
@@ -1544,7 +1545,7 @@
         "designation": "VP Technology",
         "company": "The Silicon Partners",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/aqJhTw6kxqYXRj9On1a0V/c9b8949e47e2c2623dad75ab2dd98188/Amit_Tiwari.jpg",
         "socials": []
       },
       {
@@ -1554,7 +1555,7 @@
         "designation": "IT Director, Global Digital Center",
         "company": "Cummins",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5WbPwDNDHMPU2yAdlyLBn7/a6de52c27988678faa95c98a608fbccd/Agam_Singh_1696356989595001MvHU.jpg",
         "socials": []
       },
       {
@@ -1564,17 +1565,17 @@
         "designation": "Chief Information Officer",
         "company": "Orica",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7qNia2KHJNu2LCzAIQ07Dq/52a7bcc7f5d2286781b8f2c8611d50b4/Rachael_headshot.jpg",
         "socials": []
       },
       {
         "code": "2378",
-        "firstName": "Siddharth 'Sid' ",
+        "firstName": "Siddharth",
         "lastName": "Shah",
         "designation": "Automation Leader",
         "company": "Intel",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/13sjKWWGYCcBwNxjZ84Kuv/2a5d00f2abfed9cba3ab65e46c36b8f1/Siddharth-shah.jpg",
         "socials": []
       },
       {
@@ -1584,7 +1585,7 @@
         "designation": "Sr Director IT - Global Enterprise Applications",
         "company": "Generac",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3Jb0H7qtIkiDxEEsx2IlM8/e65bec8f4eb2b3390611a98e758f7272/Steve_Seroogy.jpg",
         "socials": []
       },
       {
@@ -1594,7 +1595,7 @@
         "designation": "Industry Business Lead, Manufacturing",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6PZq1THTVm8qRn0nP8QVI4/71e9907919fab3ff1304bcefcbd23719/Suchitra_Bose.jpg",
         "socials": []
       }
     ]
@@ -1602,7 +1603,7 @@
   {
     "code": "2320",
     "sessionType": "Summit",
-    "category": "Public Sector Summit",
+    "category": "Public Sector",
     "title": "Public Sector Summit: Automation and the power of applying AI",
     "description": "<p>In <a href=\"https://start.uipath.com/The-new-modernization-imperative-government-automation-with-applied-AI.html\">The New Government Modernization Imperative: Automation and the Power of Applying AI</a>, IDC foresees a different trajectory for the future of government modernization—a move away from the traditional lift-and-shift approach to using AI-power automation enterprise wide. AI-powered automation is changing the way organizations transform, modernize, and the way work gets done to drive the best outcomes. Join your public sector peers on the afternoon of FORWARD Day 2 for an immersive session where you'll experience how to tackle public sector mission challenges and build a foundation of innovation using AI-powered automation. Through a mix of real-world challenges shared by government speakers, group discussion and problem solving, and design thinking and service design concepts, you'll walk away with tangible steps to empower your organization and drive better outcomes wherever you are in your AI and automation journey.</p>\n\n<p> </p>\n\n<p>Join us and experience public sector transformation directly through AI-powered automation!</p>\n\n<p> </p>\n\n<p> </p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/2geUvvZEgYfqkqks1oCbPO/ef57fdf3faf53c726da9fd7141ca505b/Public_Sector_Summit-_Automation_and_the_power_of_applying_AI_.jpg",
@@ -1617,7 +1618,7 @@
         "designation": "Director VA RPA COE",
         "company": "Veterans Affairs",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/ia6g15Ook0UzU9OuCllBh/0779b7a78ac845f72b1a7873b2865dfc/generic_image_bio.jpg",
         "socials": []
       },
       {
@@ -1627,7 +1628,7 @@
         "designation": "Chief Digital Transformation Officer",
         "company": "State of CA, DMV",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/54oaQ5oYTK1dpEfF1M73mP/6a3566701a82748c9cbd434a366c4602/Ajay_Gupta_1694548649839001NmYN.jpg",
         "socials": []
       },
       {
@@ -1637,7 +1638,7 @@
         "designation": "Area Vice President, Public Sector",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3LzT41xEFqazwaALzNOiHe/9f05c189ae3b06d7c9e663e9e288fdab/Todd_Schroeder.jpg",
         "socials": []
       },
       {
@@ -1647,7 +1648,7 @@
         "designation": "Senior Vice President, Public Sector",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4SHiNbdIv57kdoLd40XBBs/c7afa3ef85a222ba1c787afe821a7797/Mike_Daniels.jpg",
         "socials": []
       },
       {
@@ -1657,7 +1658,7 @@
         "designation": "Executive Director - Intelligent Automation",
         "company": "State of Tennessee",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5k2JfqA3SxFamcM9eVBMjS/6ae1c872c3ad59553e321bfa9b27ee3c/Robert_Pucci.jpg",
         "socials": []
       },
       {
@@ -1667,7 +1668,7 @@
         "designation": "RPA Developer and Program Manager ",
         "company": "Purdue University",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1iTvmMX9AhOqQkwD6KlfP4/470b00e549b46aac832efeafc0c618fe/Will_Oprisko_1696885080134001Nx4A.jpg",
         "socials": []
       },
       {
@@ -1677,7 +1678,7 @@
         "designation": "Deputy CIO",
         "company": "Purdue University",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4psynqlia90aj0RCIvuTXe/31b48c532fabf18a8f5fa9b463abd46c/generic_image_bio.jpg",
         "socials": []
       },
       {
@@ -1687,7 +1688,7 @@
         "designation": "Deputy GM, Information Technology Service",
         "company": "County of Los Angeles, ISD",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6hxsj8XNazCONvZm4k2By8/8de3e2b7d7edf12ebd7d596b6b3b57a7/Robert_King.jpg",
         "socials": []
       },
       {
@@ -1697,7 +1698,7 @@
         "designation": "Principal Application Developer",
         "company": "LA County",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/78KkciJ2UXygOAqge00jD8/495c60550d9be38ae1fbf15e800db1eb/Ann_Li.jpg",
         "socials": []
       },
       {
@@ -1707,7 +1708,7 @@
         "designation": "Director of Product Management ",
         "company": "Groundswell",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7dtwGH7oB1vnVn2BuexA7l/b8e9ce3ac425eb1e8f4608d69b11d8a3/Tara_Williams.jpg",
         "socials": []
       },
       {
@@ -1717,7 +1718,7 @@
         "designation": "Director of IT Student Life and Business Solutions",
         "company": "Purdue University",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4QxCra17Xf0fQ2dtbmWJje/ba7d54bb18e9de548bcea915a317f856/Cindy_Oneal.jpg",
         "socials": []
       },
       {
@@ -1727,7 +1728,7 @@
         "designation": "User Experience Designer, Staff Principal",
         "company": "Groundswell",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2P60dfsiYqkPw07QQx2IXD/b58be7063311cfefc8a62c6cf3b42dce/Michael_Salomon.jpg",
         "socials": []
       },
       {
@@ -1737,7 +1738,7 @@
         "designation": "IT Manager",
         "company": "Riverside County",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/67BAPNd3Yu9fRvzRPO0TS9/3d48b351b7033606573f04885509d6c4/Sandipan_Sharma.jpg",
         "socials": []
       }
     ]
@@ -1745,7 +1746,7 @@
   {
     "code": "2304",
     "sessionType": "Breakout",
-    "category": "Inspiration Theater",
+    "category": "Inspiration",
     "title": "The Year of Efficiency: Supercharging automation through metrics, citizen development, and offshore delivery ",
     "description": "<p>Join Danilo Barbosa of META as they unpack a transformative year in intelligent automation, exploring the pioneering strategies that led to remarkable efficiencies and widened the scope of automation.</p>\n\n<p> </p>\n\n<p>They will share insights from implementing a Citizen Development Program, transitioning to an offshore delivery model, and establishing standardized metrics across all operations. Discover how META empowered individuals to become citizen developers, fostering a culture of innovation and accelerating automation. Learn from the successes and challenges of managing a global, diverse team within an offshore delivery model. Understand the significance of robust, standardized metrics in demonstrating the real impact of automation initiatives to stakeholders.</p>\n\n<p> </p>\n\n<p>Delve into real-life experiences and practical strategies. Get inspired to re-think your approach to intelligent automation and extend its reach in your organizations. This engaging session is designed for forward-thinking leaders in the intelligent automation domain who strive for continual evolution and innovation. Prepare to be inspired and equipped with actionable insights for your automation journey.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/qNkeBCGTRlkR63G90Ud0E/587e64f39e26f93e38e0a9bb81d8d71c/The_Year_of_Efficiency_Supercharging_automation_through_metrics_.jpg",
@@ -1760,7 +1761,7 @@
         "designation": "Digital Transformation Manager",
         "company": "Meta",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/72iyP9uskdXGSSiKvQil0z/fdeb208e177017cdc0dbc7005f6297fc/Danilo_Barbosa.png",
         "socials": []
       }
     ]
@@ -1768,7 +1769,7 @@
   {
     "code": "2306",
     "sessionType": "Breakout",
-    "category": "Inspiration Theater",
+    "category": "Inspiration",
     "title": "Embracing Digital Transformation through AI-Powered Automation and Intelligence Document Processing",
     "description": "<p>You are receiving high volumes of documents to process, such as invoices, and your teams can't keep up! Your existing technology is missing key details. You just want something that works, reduces errors, improves accuracy, and can integrate with your downstream systems.<br /></p>\n\n<p><br /></p>\n\n<p>Last year, Canon embraced AI and automation alongside human-in-the-loop capabilities, to drive their digital transformation and offloaded 8,800+ hours annually from their Finance teams in both the USA and Canada. This year they are nearing that outcome with even more intelligent document processing! Taking the learnings from previous projects and supporting an AI-powered automation strategy across business teams, Canon employees are being upskilled and redeployed to more interesting and engaging work and business-impacting projects.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ec4jVIBC6eFQHQiGzCqCn/a38c1686057a1c3883a27683194ee66b/Embracing_Digital_Transformation_through_AI-Powered_Automation_and_Intelligence_Document_Processing_.jpg",
@@ -1783,7 +1784,7 @@
         "designation": "CEO",
         "company": "Greenlight Consulting",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/404MuH3NZCHmyc5HvIqKqb/c8bc224eb1a3f2116d26cb626c7a255e/Shameiz-Hemani-Headshot.jpg",
         "socials": []
       },
       {
@@ -1793,7 +1794,7 @@
         "designation": "Director, Financial Systems & Process Automation Finance and Accounting Division",
         "company": "Canon USA, Inc",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4BwE1uuBLW2vwTPP4IlNpT/138382a8d56fa6a33fc63058987d2f46/Thomas_Earvolino.jpg",
         "socials": []
       }
     ]
@@ -1801,7 +1802,7 @@
   {
     "code": "2318",
     "sessionType": "Breakout",
-    "category": "How-To Theater",
+    "category": "How-To",
     "title": "How to Automate the \"Unautomatable\" in Government",
     "description": "<p>With the creation of an Automation Centre of Excellence (ACoE), the Scottish Government was able to accelerate the digitization of government services which led to an improvement in citizen outcomes and increased employee job satisfaction. In just over a year, the Scottish Government has automated 66 business processes in over 132,000 transactions while achieving a 99% automation accuracy rate. With further automation opportunities identified via an internal 'automation challenge' initiative, the program's scale continues to rapidly grow.<br /></p>\n\n<p>In this session you will learn:<br /></p>\n\n<p>- How the Scottish Government rapidly improved citizen experience and increased employee satisfaction by implementing a cross-agency, hyperscale automation program, at pace<br /></p>\n\n<p>- Lessons learned during their automation journey, such as uniting with stakeholders who can either amplify or obstruct an automation initiative</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6ZTFSy9M1sbudhbmd9MQlm/5b9c4ebd84e529a6437c60508a8b079e/placeholder-session.png",
@@ -1816,7 +1817,7 @@
         "designation": "UK Lead for Intelligent Automation",
         "company": "EY",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/11TP8IFuGHKnF2iT2ujItX/42b6f7b39eaef714d9b57c6703af2d2b/Edward_Mitchell.jpg",
         "socials": []
       },
       {
@@ -1826,7 +1827,7 @@
         "designation": "Head of Intelligent Automation",
         "company": "The Scottish Government",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/J4hpJAsea9aw5Ydi2xjvM/83cc760d0efd3f052ec90cd29a456f3d/Kjersti_Fergusson_1696591175849001oHhv.jpg",
         "socials": []
       }
     ]
@@ -1834,7 +1835,7 @@
   {
     "code": "2308",
     "sessionType": "Breakout",
-    "category": "Journey Theater",
+    "category": "Journey",
     "title": "The Future of Jobs and Talent in Automation and AI",
     "description": "<p>We're experiencing a technological paradigm shift that necessitates changes in the workforce, particularly in automation and AI. While companies seek to automate processes across the enterprise, the talent pool required to manage new AI capabilities is still shallow. UiPath is constantly investing in its learning and enablement capabilities and partnering with Kelly Technology as the hiring experts. Join this session to learn about the latest labor trends in the AI and automation space and the impact on talent and business. Takeaways will include an overview on UiPath learning curriculum and certifications to attract the best talent and develop skills to land the right role. Also, learn about the tools that identify high-potential candidates and match them with emerging AI and automation roles</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/6YzwqKBrYPLUy2LUcjrZsd/2bd995c44a004ebbdca19e648013e0d2/The_Future_of_Jobs_and_Talent_in_Automation_and_AI_.jpg",
@@ -1844,12 +1845,12 @@
     "speakers": [
       {
         "code": "2308",
-        "firstName": "Ed ",
+        "firstName": "Ed",
         "lastName": "Pederson",
         "designation": "Vice President of Innovation and Product Development",
         "company": "Kelly Services",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2UnXgsFqPjc8bpEVG8T9Qi/3913e239d479ff5bf98b51f644777173/Ed_Pederson.jpg",
         "socials": []
       },
       {
@@ -1859,7 +1860,7 @@
         "designation": "Vice President of Technical Education and Certification",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3yYIhn1Lu4CqQQVvjIEFJL/77947c90d9aa6323c2f6e87dd194a45d/Alexandru_Statie.jpg",
         "socials": []
       }
     ]
@@ -1867,7 +1868,7 @@
   {
     "code": "2380",
     "sessionType": "Breakout",
-    "category": "Product Leadership Session",
+    "category": "Product Leadership",
     "title": "Product Leadership: Continuous Discovery Keynote",
     "description": "<p>In today's dynamic business landscape, the pressure to ramp up automation across processes is more pressing than ever. The demand for a swift, data-driven approach to discover, action, and monitor inefficiencies is paramount. Enter Continuous Discovery. With discovery and AI-powered automation, UiPath is shaping a future where automation goes beyond mere buzzwords, actively propelling businesses towards excellence. Join this session with the UiPath product team, analysts, and customer experts to hear how customers are automating and innovating with Continuous Discovery and AI.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/1RkEk8lKaeo8tVqbEc319N/87cffd2597cef4817acd25d2def71625/Product_Leadership-_Continuous_Discovery_Keynote_.jpg",
@@ -1882,17 +1883,17 @@
         "designation": "Sr Director, Product Marketing, Emerging & Growth Categories",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7FFK81ZLC2rS7VsccxEvkQ/35af3afc8f7aad963ea6da5c7b8750e8/Yiannis_Broustas.jpg",
         "socials": []
       },
       {
         "code": "2380",
-        "firstName": "Amardeep ",
+        "firstName": "Amardeep",
         "lastName": "Modi",
         "designation": "Vice President",
         "company": "Everest Group",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5D4tdANxvl0bi24Ru0r2BT/455b8706b1edc7c2bce2b28b1b442be8/Amardeep_Modi_Square_18018.jpg",
         "socials": []
       },
       {
@@ -1902,7 +1903,7 @@
         "designation": "VP Disruptive Technologies",
         "company": "Prudential",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4jjjXDdoFqAW2122cVGp89/fe58e0d36263b49ca38109761cedd8a0/Subhro_Gupta.jpg",
         "socials": []
       }
     ]
@@ -1910,7 +1911,7 @@
   {
     "code": "2384",
     "sessionType": "Breakout",
-    "category": "Product Leadership Session",
+    "category": "Product Leadership",
     "title": "Product Leadership: UiPath Developer Tools Keynote",
     "description": "<p>Join the UiPath product team to see how the developer tool set for automation is evolving to make your life easier. In this session, we will take a closer look at the roadmap and see the latest developments in our product line:</p>\n\n<ul>\n\t<li>Generative AI and natural language processing as starting points for automation</li>\n\t<li>Cross-platform automation directly in your browser window</li>\n\t<li>API automation to speed up and simplify your IT manager's workload</li>\n</ul>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/4cTY7bdKoC50qMVBd1OsWl/e2d36a88ea8b80084ce1451ec5aba7ba/Product_Leadership-_UiPath_Developer_Tools_Keynote_.jpg",
@@ -1922,7 +1923,7 @@
   {
     "code": "2389",
     "sessionType": "Breakout",
-    "category": "Product Leadership Session",
+    "category": "Product Leadership",
     "title": "Product Leadership: CoE Lead and IT Keynote: Platform delivery and security",
     "description": "<p>The CoE lead and IT track at TechEd Day is packed with sessions to help CoE leads and IT experts plan their next steps with the UiPath Business Automation Platform. In this preview keynote, join Product VP Titus Miron and Principal Manager Raisa Bragarea for highlights of what's coming to make it even easier to scale and manage the full UiPath Business Automation Platform in the enterprise. Customer Assurance and Trust Director Kevin Mooney will round the session out with updates on the latest in platform-wide trust and security.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/5aUrn3pmd3nebF6wjm5SIJ/1b20226a825aed053e35688d3dfe12d8/Product_Leadership-_CoE_Lead_and_IT_Keynote-_Platform_delivery_and_security_.jpg",
@@ -1937,7 +1938,7 @@
         "designation": "Principal Manager, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3jWz7XhVVZF22CO4raAkYD/1792c7c62e6cb17bf35cfed8fc6d1365/Raisa-Bragarea.jpg",
         "socials": []
       },
       {
@@ -1947,7 +1948,7 @@
         "designation": "Director, Customer Security & Trust",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3oyfGAewK9fuCFJ9BAUVxA/3196747a6f36591bf68def0aef744736/Kevin-Mooney.jpg",
         "socials": []
       },
       {
@@ -1957,7 +1958,7 @@
         "designation": "Vice President - Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6YYoQ7rOBTdDIyjynGHQih/1546151bdfcc306871cad89c7fa1a7a2/Titus_Miron.jpg",
         "socials": []
       }
     ]
@@ -1965,7 +1966,7 @@
   {
     "code": "2379",
     "sessionType": "Breakout",
-    "category": "Product Leadership Session",
+    "category": "Product Leadership",
     "title": "Product Leadership: UiPath Test Suite: Leading the AI testing revolution",
     "description": "<p>For decades, testing technology lacked significant innovation. In 2020, UiPath launched Test Suite, a test automation solution leveraging UiPath production-grade RPA technology. Just one year later, it was acclaimed by IDC as a Leader in cloud testing due to its robust automation and orchestration. Now, powered by the UiPath Business Automation Platform and infused with Specialized AI testing capabilities, Test Suite is poised to lead the AI testing revolution. This session will explore our vision for AI-powered continuous testing, the roadmap to realize this vision, and the benefits our customers have already achieved.</p>\n",
     "image": "https://images.ctfassets.net/5965pury2lcm/65GXFwzzqX3y56C0z599xY/5138608b37f6e884e8c87d0930f48705/Product_Leadership-_UiPath_Test_Suite-_Leading_the_AI_testing_revolution_.jpg",
@@ -1980,7 +1981,7 @@
         "designation": "GM & SVP of Product - Test Suite",
         "company": "UiPath Switzerland GmbH",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5ySm9ECE9dCNtaXUjDxEN5/225e370e7b0c848942ac767bfd1ae0f0/Gerd_Weishaar.jpg",
         "socials": []
       }
     ]
@@ -2003,7 +2004,7 @@
         "designation": "Director, Product Marketing Intelligence",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/74CF6IRVkMspvcgEjWVulW/2bd00e11bf3a188289ad8c6c5be04f18/Chris_Janiszewski.jpg",
         "socials": []
       },
       {
@@ -2013,7 +2014,7 @@
         "designation": "Chief Product Officer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2KHZz9X6N3xriVF2mPRKnP/a8be10b51ce5d4349e0473d7796b21fe/Graham_Sheldon.jpg",
         "socials": []
       },
       {
@@ -2023,7 +2024,7 @@
         "designation": "Co-Founder and Co-CEO",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3jWZigTbahp7sq4SjVRbql/365d15bbd3a8f97836e12e9a235abf28/Daniel_Dines.jpg",
         "socials": []
       }
     ]
@@ -2045,7 +2046,7 @@
         "lastName": "Sheldon",
         "designation": "Chief Product Officer",
         "company": "UiPath",
-        "description": "",
+        "description": "https://images.ctfassets.net/5965pury2lcm/2KHZz9X6N3xriVF2mPRKnP/a8be10b51ce5d4349e0473d7796b21fe/Graham_Sheldon.jpg",
         "image": "",
         "socials": []
       },
@@ -2056,7 +2057,7 @@
         "designation": "Vice President of Products, Azure AI",
         "company": "Microsoft",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1nqnrgrnfrKrK000I5lH34/3ef6f61f8243dbf7ac263a30909eec27/Marco_Casalaina.jpg",
         "socials": []
       }
     ]
@@ -2079,7 +2080,7 @@
         "designation": "VP, AI Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5oQImApQAwSb6672R7xoyh/6b2ee7e466cb60ca30180c870bb8dae6/Luke_Palamara.jpg",
         "socials": []
       },
       {
@@ -2089,7 +2090,7 @@
         "designation": "Head of AI Strategy",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6eRQwjviNKFZ9A3qM6ht4Y/8b2933a56d76b3cef0b4758a40398539/Edward_Challis.jpg",
         "socials": []
       },
       {
@@ -2099,7 +2100,7 @@
         "designation": "AI/ML Sales Solution Architect",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/012VW7VK47E0QKQ6xQYe3f/9bb8d155df1524ffe4bc93e013d7268b/Daniel-Lerner.jpg",
         "socials": []
       },
       {
@@ -2109,7 +2110,7 @@
         "designation": "Product Management Director",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6ibwTW2nI0ukgG0NerqOW1/584a0986b3626fd763d39ee146812f2e/George_Barnett.jpg",
         "socials": []
       }
     ]
@@ -2132,7 +2133,7 @@
         "designation": "Senior Product Marketing Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4u93CcwDtMMADxe5ytzB1x/cf935c783a5f5f395bfe4c1759b12dd8/Chetak_Shankar.png",
         "socials": []
       },
       {
@@ -2142,7 +2143,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2yBpspqEyp1kA16WH4LG5V/d3456e8ce0b35c4317f7f2e5e59afccc/Eusebiu_Jecan.jpg",
         "socials": []
       }
     ]
@@ -2153,7 +2154,6 @@
     "category": "TechEd Day",
     "title": "Deploying Automation Suite and the Infrastructure Required",
     "description": "<p><em><strong>Attendance is limited for this workshop-like session.</strong></em></p>\n\n<p>Join our comprehensive workshop to learn the ins and outs of deploying Automation Suite effectively. Discover the essential infrastructure needed to ensure seamless integration and optimal performance for your automation projects.</p>\n",
-    "image": "",
     "speakers": [
       {
         "code": "2364",
@@ -2162,7 +2162,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5CnegKKs3Dyq7klWTbM9HG/bd89c362f3424607e7d6893ad6b7521b/Alexandre_Blain.jpg",
         "socials": []
       },
       {
@@ -2172,7 +2172,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5M5CwKHPK7ZZGV3y72WD9M/f01061a1b874124432d22cefea802f9f/Piyush-Kundra.jpg",
         "socials": []
       },
       {
@@ -2182,7 +2182,7 @@
         "designation": "Senior Infrastructure Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/GXRLJZf9oSLpiaaYaIeGQ/b02a954b6b88a4f9da9a4948732d5166/Tatsuya-Emoto.jpg",
         "socials": []
       }
     ]
@@ -2205,7 +2205,7 @@
         "designation": "Manager, CoE Development",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7lDcGcKNHexd5X8XBO22OS/d2cbec9348d28139b2bc22b6c09aaeb8/Irina_Capatina.jpg",
         "socials": []
       },
       {
@@ -2215,7 +2215,7 @@
         "designation": "Senior Director, CoE",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3pU6XHINDkiUxOOMqNXeaO/e6b5b06945c359a128abdfcbee076094/Florentina_Irmia_1696331615850001QiXY.jpg",
         "socials": []
       }
     ]
@@ -2238,17 +2238,17 @@
         "designation": "CGO",
         "company": "Ashling Partners",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7C0GMbkavfqwYjBIP1JsgE/51c5639a0618cb7b0345279acf3e85f3/mike-deleonardis.jpg",
         "socials": []
       },
       {
         "code": "2339",
-        "firstName": "Donald ",
+        "firstName": "Donald",
         "lastName": "Sweeney",
         "designation": "Co-Founder, Co-CEO",
         "company": "Ashling Partners",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7nR2vgkIXqUWAp4AZ4MsTN/15987d59edb3dc1cc51ca382f38bff7b/Donald-Sweeney.jpg",
         "socials": []
       },
       {
@@ -2258,7 +2258,7 @@
         "designation": "Senior Product Marketing Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3AeAc7dvajTkFnh0i56bH9/90e08a97766b885864a82dfb622936a2/Grace_Wang.jpg",
         "socials": []
       },
       {
@@ -2268,7 +2268,7 @@
         "designation": "Robotic Process Automation Manager",
         "company": "NRG",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4qkZimP8koUrerRmX49qYF/2a3efd635378985b8ca1a9205ab00ee6/Natalie_Bober.jpg",
         "socials": []
       }
     ]
@@ -2291,7 +2291,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5trj6QeCSiv0V3sD9LcQrl/38d1eb8368cd08c7fe795f17b628da54/Thomas-Stocker.jpg",
         "socials": []
       }
     ]
@@ -2314,7 +2314,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/i1dfZbpLR8JbrwhlClprl/05d5f927b69c247ebc7bc743f426069c/Alex_Iordan.jpg",
         "socials": []
       }
     ]
@@ -2337,7 +2337,7 @@
         "designation": "Product Marketing Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5QY8pNgJYJEK65V0WZmWQZ/4a83533c5bae71611d22b67d2e488d31/Maria_Andrukh.jpg",
         "socials": []
       },
       {
@@ -2347,7 +2347,7 @@
         "designation": "VP of Solutions Delivery",
         "company": "Leaf Home",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5G0zVQvh5FsKxE1lL2yfBQ/4230f76c064b6165264dec7d74d50816/Brandon_Smith.png",
         "socials": []
       },
       {
@@ -2357,7 +2357,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6v1urs6rraxnx8zriPH2Uc/b154dc63b92a72d76bc8f495ab6a7ed0/Justin-marks.jpg",
         "socials": []
       },
       {
@@ -2367,7 +2367,7 @@
         "designation": "Director",
         "company": "Impower.ai",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/737GWGXJ5H8ap83SbtYrRG/a5b229323bac49e60306bf5335f4e94b/Jacob-Haning.jpg",
         "socials": []
       }
     ]
@@ -2390,7 +2390,7 @@
         "designation": "Manager, Technology Services",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5I8ONU1XRWmA7vkzXDuym4/c9e7c7d49d4207db94bfa3be9e11b989/Alina-Capota.jpg",
         "socials": []
       }
     ]
@@ -2413,7 +2413,7 @@
         "designation": "Manager, CoE Development",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7lDcGcKNHexd5X8XBO22OS/d2cbec9348d28139b2bc22b6c09aaeb8/Irina_Capatina.jpg",
         "socials": []
       },
       {
@@ -2423,7 +2423,7 @@
         "designation": "RPA Solution Architect",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1LIOkZVIptjuSgS6qDX3RP/34c06452e04b738aa9d607fe3351d9fe/Florentin_Burcea.jpg",
         "socials": []
       },
       {
@@ -2433,7 +2433,7 @@
         "designation": "RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/wp4qQyDA7NzOsql00qOEz/c835306a8d5084989981dbd5e7b08a9a/Denisa_Nine.jpeg",
         "socials": []
       },
       {
@@ -2443,7 +2443,7 @@
         "designation": "Senior RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5A5961rZNrzhlec8JyjY6v/4d4cc1917e370924d18aa26065afc33c/Calin_Giuclea.jpg",
         "socials": []
       },
       {
@@ -2453,7 +2453,7 @@
         "designation": "Business Analyst",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/KbvHGZTVVQyo6MQsKhRoZ/1421d7e7ea6d2c8045b4d582bdaf78b9/Ruxandra_Radulescu.jpg",
         "socials": []
       }
     ]
@@ -2476,7 +2476,7 @@
         "designation": "Senior Manager, Professional Services",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1ZDKZtuhxweL7OFwJ5Q1AM/af779e18dd47b259cb22af129ac762b0/joseph_yoon.jpg",
         "socials": []
       }
     ]
@@ -2499,7 +2499,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/328hrbLnGGPVoA72QFtil3/caf4afe89ae6025c8e0621d3f45ad41a/Alexandru_Roman.jpg",
         "socials": []
       },
       {
@@ -2509,7 +2509,7 @@
         "designation": "Principal Engineering Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4UFgCVCf0ywDHgAAzJkG32/2a50748bf9dc162cdf122a1076e76600/Alvin_Stanescu.jpg",
         "socials": []
       }
     ]
@@ -2532,7 +2532,7 @@
         "designation": "Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2er694rQlHpuQfXJIsnrOP/04acd3c6154797f3a97f6320070c7a22/Andrei_Erghelegiu.jpg",
         "socials": []
       },
       {
@@ -2542,7 +2542,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/23oEyY4WrB6yMXHvkumE3b/16e685cc5cd1bf3d830655390c66bd98/Tuan_Nguyen.jpg",
         "socials": []
       }
     ]
@@ -2565,7 +2565,7 @@
         "designation": "Principal Manager, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3jWz7XhVVZF22CO4raAkYD/1792c7c62e6cb17bf35cfed8fc6d1365/Raisa-Bragarea.jpg",
         "socials": []
       },
       {
@@ -2575,7 +2575,7 @@
         "designation": "Senior Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5RKOXsACiuuogjai4vIpq5/2fe516de89b190811e0ab55b3ed15104/Brad_Stevenson.jpg",
         "socials": []
       }
     ]
@@ -2598,7 +2598,7 @@
         "designation": "Sr.Director Product Management SAP",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3N32ssHe3ooCDoFXoBbmiM/842d1778f88bd19339fa6856ad780dc7/Lev-Kushnir-Business-Photo_1808.jpg",
         "socials": []
       }
     ]
@@ -2621,7 +2621,7 @@
         "designation": "Discovery Sales Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1sxXhmeFWixhBAxkpqeXPP/fa69658f7890ec48646c218de4ab923a/Veronica_DeSalvo.jpg",
         "socials": []
       }
     ]
@@ -2644,7 +2644,7 @@
         "designation": "Senior Director, Product Marketing",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/yJnCnwMVzNmEB2T8bNSq0/0bad967baa82af56eedcee5520f9b6d3/Geoff-Anderson.jpg",
         "socials": []
       },
       {
@@ -2654,7 +2654,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5M5CwKHPK7ZZGV3y72WD9M/f01061a1b874124432d22cefea802f9f/Piyush-Kundra.jpg",
         "socials": []
       },
       {
@@ -2664,7 +2664,7 @@
         "designation": "Senior Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/kUNYMnXcRtin1cBHodlVH/90d4434e7b5c2929432ad49129addc33/Iulia_Istrate.jpg",
         "socials": []
       }
     ]
@@ -2687,7 +2687,7 @@
         "designation": "RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5DlGFM62wgWJYdLEG61k5o/527a7caeb496e4a0a75da8a813fc8f2f/Maxx_Ott.png",
         "socials": []
       },
       {
@@ -2697,7 +2697,7 @@
         "designation": "Senior Manager, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/290nG3krq3HeMTi8dUyxGT/24b252a03a83949e8ce859cb2d6ae7d4/Sorin_1808.jpg",
         "socials": []
       },
       {
@@ -2707,7 +2707,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3KvHhnijIgKex5mhoV16Ig/c2f74a918dabeb504ebdf3d3091513aa/Andrei_Vintila.png",
         "socials": []
       }
     ]
@@ -2730,7 +2730,7 @@
         "designation": "Product Manager, Transformation",
         "company": "Cushman and Wakefield",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/FXVfSSNPZy6Qt2Vv1b0Jg/e8badccf0d70849bf7f80f6e420eb3b7/Thomas_Mandel.jpg",
         "socials": []
       }
     ]
@@ -2753,7 +2753,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4PoiTECaeWozsbs84QPdVL/74b338010527c8501d43f8ca5ca0fbb4/Robert_Wagner.jpg",
         "socials": []
       }
     ]
@@ -2776,7 +2776,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3xfPEk0WgXIO1wVaye2AXb/88a4b08fa86cd9faebf06928be405851/Willem_Smith.jpg",
         "socials": []
       }
     ]
@@ -2799,7 +2799,7 @@
         "designation": "Director, Customer Security & Trust",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3oyfGAewK9fuCFJ9BAUVxA/3196747a6f36591bf68def0aef744736/Kevin-Mooney.jpg",
         "socials": []
       },
       {
@@ -2809,7 +2809,7 @@
         "designation": "Senior Manager, Product Marketing",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4Gmx7TF5w3i3CEBec8LETs/23794da86626164cc3912b9e000f8dc7/Sebastian_Ungureanu.jpg",
         "socials": []
       }
     ]
@@ -2844,7 +2844,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7kr03nsCfPFpCgW04YIM2W/e4f940634e9a736f36667bdbf53dc544/Rachel_Wong.jpg",
         "socials": []
       }
     ]
@@ -2867,7 +2867,7 @@
         "designation": "Senior Product Marketing Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/STxlotVJ0PGBgYYesO7eK/29ea5a264fb9e0e57b77a9a3de593bf9/ryan-rush.jpg",
         "socials": []
       },
       {
@@ -2877,7 +2877,7 @@
         "designation": "Senior Developer, Global Intelligent Automation COE",
         "company": "WESCO Distribution",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3d8mIYRhl5tNBrg87KZPNd/2a97aa0e29b88da9c32d5b2e2e4735b8/Eric_Smith.jpg",
         "socials": []
       }
     ]
@@ -2900,7 +2900,7 @@
         "designation": "Product Management Director",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2GPTH6QrqMICvmhxNmkvUZ/93da3ee6bd4d75ed424e908043fe509c/Gernot_Brandl_1693317149762001c1mB.jpg",
         "socials": []
       },
       {
@@ -2910,7 +2910,7 @@
         "designation": "Director, Software Engineering",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7AmH7w8RqmOblOFGYXZ2s1/fb4105e493d9c7e53bc87be688cfb2fb/Amol_Awate.jpg",
         "socials": []
       }
     ]
@@ -2933,7 +2933,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/7wohhTmDlrhKcBNSfgxf1L/a4166d744c2bd0e75d85a9931848f4ac/Greg_Guidone.jpg",
         "socials": []
       }
     ]
@@ -2956,7 +2956,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/328hrbLnGGPVoA72QFtil3/caf4afe89ae6025c8e0621d3f45ad41a/Alexandru_Roman.jpg",
         "socials": []
       },
       {
@@ -2966,7 +2966,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4aQMbExwUK5yNPOuklqWZw/f5e69a18019e93fa018ff9b747ac2bd4/Alexandru_Szoke.jpg",
         "socials": []
       }
     ]
@@ -2989,7 +2989,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/63gDlUcVJCEihBeOLonm45/dac04ab3a0fd0fe750f25651cad25ed5/Cristina_Avram.jpg",
         "socials": []
       }
     ]
@@ -3012,7 +3012,7 @@
         "designation": "Senior Solution Architect, Incubation",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6gELGhRt4MLPj38SjrkVHo/fb27b34398b8193d9ee4817216e337d8/Dhruv_Patel.jpg",
         "socials": []
       },
       {
@@ -3022,7 +3022,7 @@
         "designation": "Principal Software Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2SjSG7k9AGvAkJO6b98X9L/5c96a61173015794a29caf6b39d0d63c/Chibichakaravarthi_Vikramathithan.jpg",
         "socials": []
       }
     ]
@@ -3045,7 +3045,7 @@
         "designation": "Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2xYJcs9jmBYMpzEhrgUZrC/aa5eec9ee315c825e07b2a2735b6af87/Noopur_headshot.jpg",
         "socials": []
       },
       {
@@ -3055,7 +3055,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6v1urs6rraxnx8zriPH2Uc/b154dc63b92a72d76bc8f495ab6a7ed0/Justin-marks.jpg",
         "socials": []
       }
     ]
@@ -3078,7 +3078,7 @@
         "designation": "Director, Application Testing Services",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2zJLtrZdzrJErcSrSs0JNB/b04815f13633539f06d8ce80c81c99e8/Purna-Singh.jpg",
         "socials": []
       }
     ]
@@ -3101,7 +3101,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6yjz6kQbtnD7vM59cEALrz/3914ab514ed6dfb6b613dd3f043674d7/Corina-Marginas.jpg",
         "socials": []
       },
       {
@@ -3111,7 +3111,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4aQMbExwUK5yNPOuklqWZw/f5e69a18019e93fa018ff9b747ac2bd4/Alexandru_Szoke.jpg",
         "socials": []
       },
       {
@@ -3121,7 +3121,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4lR2ePawjLH3uqSWDlaWIL/71cd3787ceb95e6de9d488492cef0321/Adrian_Tamas.jpg",
         "socials": []
       }
     ]
@@ -3144,7 +3144,7 @@
         "designation": "Senior RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6HBpE95EFBJVW9bCvUcCmY/eb3ef367c427830fef6990eec4353214/Ravi_Garg.jpg",
         "socials": []
       },
       {
@@ -3154,7 +3154,7 @@
         "designation": "Senior RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2TwU7elCpkaQSwRRnMmq8E/2fc8c446038a43ae7a5cc68a803e87e6/Tom_Moshier.jpg",
         "socials": []
       }
     ]
@@ -3177,7 +3177,7 @@
         "designation": "RPA Developer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/5DlGFM62wgWJYdLEG61k5o/527a7caeb496e4a0a75da8a813fc8f2f/Maxx_Ott.png",
         "socials": []
       },
       {
@@ -3187,7 +3187,7 @@
         "designation": "AI/ML Sales Solution Architect",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/012VW7VK47E0QKQ6xQYe3f/9bb8d155df1524ffe4bc93e013d7268b/Daniel-Lerner.jpg",
         "socials": []
       }
     ]
@@ -3210,7 +3210,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/23oEyY4WrB6yMXHvkumE3b/16e685cc5cd1bf3d830655390c66bd98/Tuan_Nguyen.jpg",
         "socials": []
       },
       {
@@ -3220,7 +3220,7 @@
         "designation": "Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/6ofliMsejcCURnpg5jRxWB/f932143c2496c09aaf7288c3aaaf7bc0/Imran_Aziz.jpg",
         "socials": []
       }
     ]
@@ -3243,7 +3243,7 @@
         "designation": "Global Head - Intelligent Engineering Practice",
         "company": "Ness Digital Engineering",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4cs10b3g9hTV8IRAp6lI1V/365b178cb697b7502a3cd63e468b2b5d/Vikas_Basra.jpg",
         "socials": []
       }
     ]
@@ -3266,7 +3266,7 @@
         "designation": "Senior Director, Product Management",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/2Ya42UDdNYPsHVJRdb6IxC/38b95fc20746fa385ea45a839c1bf77d/Ingo_Philipp.jpg",
         "socials": []
       }
     ]
@@ -3289,7 +3289,7 @@
         "designation": "Principal Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/mJGe0ArzeI1EuKMkjoCVM/071f2f1df14822c1dcaeee21747f0e52/Viorela_Preda.jpg",
         "socials": []
       }
     ]
@@ -3312,7 +3312,7 @@
         "designation": "Senior Product Manager",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/63gDlUcVJCEihBeOLonm45/dac04ab3a0fd0fe750f25651cad25ed5/Cristina_Avram.jpg",
         "socials": []
       }
     ]
@@ -3335,7 +3335,7 @@
         "designation": "Sales Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/4tjToQQjzVzs1pjRxhYDZI/0a5d892eeb5dff2087d5d8910dd60acf/Ibrahim_Appiah.jpg",
         "socials": []
       },
       {
@@ -3345,7 +3345,7 @@
         "designation": "Senior Solution Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/3PQPeQi5aP1PsjCXhrtbL9/f23ee58b8445b458840ccd91d1bf8b72/Breuer_Bass.jpg",
         "socials": []
       },
       {
@@ -3355,7 +3355,7 @@
         "designation": "Senior Sales Engineer",
         "company": "UiPath",
         "description": "",
-        "image": "",
+        "image": "https://images.ctfassets.net/5965pury2lcm/1yNXEjhoUnqXraX4Qr4UQh/1439a4731258d76278f878280ec86026/Steve_Filus.png",
         "socials": []
       }
     ]
